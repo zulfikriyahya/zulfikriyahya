@@ -1,42 +1,52 @@
-## Hi there! 👋
+<h1 align="center">Hi 👋, I'm Yahya Zulfikri</h1>
+<h3 align="center">A passionate fullstack developer from Indonesia.</h3>
 
-I'm Yahya Zulfikri, an IT Technician and Fullstack Developer based in Indonesia. I'm passionate about technology and enjoy creating innovative solutions to complex problems.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zulfikriyahya&label=Profile%20views&color=0e75b6&style=flat" alt="zulfikriyahya" /> </p>
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zulfikriyahya" alt="zulfikriyahya" /></a> </p>
 
-Currently, I work at MTS Negeri 1 Pandeglang as a System Administrator and Freelance Developer. With a strong background in IT support and web development, I thrive on challenges and continuous learning.
+<p align="left"> <a href="https://twitter.com/zulfikriyahya" target="blank"><img src="https://img.shields.io/twitter/follow/zulfikriyahya?logo=twitter&style=for-the-badge" alt="zulfikriyahya" /></a> </p>
 
-## Skills & Technologies
+- 🔭 I’m currently working on [zulfikriyahya](https://github.com/zulfikriyahya)
 
+- 🌱 I’m currently learning **Nextjs**
 
+- 👯 I’m looking to collaborate on [zulfikriyahya](https://github.com/zulfikriyahya)
 
-## Top Projects
+- 🤝 I’m looking for help with [zulfikriyahya](https://github.com/zulfikriyahya)
 
-- [filament](https://github.com/zulfikriyahya/filament): Filament Project Gabut. **Stars**: 0, **Language**: PHP, **Forks**: 0, **Issues**: 0
-- [server-rdm](https://github.com/zulfikriyahya/server-rdm): Installer server-rdm local. **Stars**: 0, **Language**: PHP, **Forks**: 0, **Issues**: 0
-- [e-spp](https://github.com/zulfikriyahya/e-spp): Aplikasi SPP berbasis web. **Stars**: 1, **Language**: PHP, **Forks**: 0, **Issues**: 0
-- [pdm-siswa](https://github.com/zulfikriyahya/pdm-siswa): Aplikasi Pemutakhiran Data Mandiri Siswa Madrasah. **Stars**: 0, **Language**: PHP, **Forks**: 0, **Issues**: 0
-- [e-surat](https://github.com/zulfikriyahya/e-surat): Platform manajemen surat-menyurat. **Stars**: 1, **Language**: PHP, **Forks**: 0, **Issues**: 0
+- 👨‍💻 All of my projects are available at [https://github.com/zulfikriyahya](https://github.com/zulfikriyahya)
 
-## GitHub Stats
+- 📝 I regularly write articles on [https://github.com/zulfikriyahya](https://github.com/zulfikriyahya)
 
-🌟 **Public Repositories**: 15  
-👥 **Followers**: 2  
-👤 **Following**: 5  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zulfikriyahya&show_icons=true&theme=radical)
+- 💬 Ask me about **React, Laravel**
 
-## Recent Activity
+- 📫 How to reach me **zulfikriyahya@zedlabs.id**
 
-- **Pushed to [filament](https://github.com/zulfikriyahya/filament)**: Add Features: Siswa - [View Commit](https://github.com/zulfikriyahya/filament/commit/02b60deed89c050aa5b61700644905825b2ff93b) on 2025-01-09
-- **Pushed to [filament](https://github.com/zulfikriyahya/filament)**: Add Features: Semester dan Tahun Pelajaran - [View Commit](https://github.com/zulfikriyahya/filament/commit/e140a261f908292acf0f75e158c961b267b1cbce) on 2025-01-09
-- **Pushed to [filament](https://github.com/zulfikriyahya/filament)**: Add Features : Locking Location - [View Commit](https://github.com/zulfikriyahya/filament/commit/9a2f82259d182d48d5bdecde10ab928eec4b57e1) on 2025-01-09
-- **Pushed to [filament](https://github.com/zulfikriyahya/filament)**: Pembaruan Relation Manager - [View Commit](https://github.com/zulfikriyahya/filament/commit/73ed6185ea776e01d033ddbe66423036d65186dc) on 2025-01-05
-- **Created repository [filament](https://github.com/zulfikriyahya/filament)** on 2025-01-05.
+- 📄 Know about my experiences [https://github.com/zulfikriyahya](https://github.com/zulfikriyahya)
 
-## Latest Blog Posts
+- ⚡ Fun fact **I think I'm funny.**
 
-Check out my blog for the latest updates and articles: [My Blog](https://zulfikriyahya.github.io/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/zulfikriyahya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zulfikriyahya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zulfikriyahya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zulfikriyahya" height="30" width="40" /></a>
+<a href="https://fb.com/zulfikriyahya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zulfikriyahya" height="30" width="40" /></a>
+<a href="https://instagram.com/zulfikriyahya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zulfikriyahya" height="30" width="40" /></a>
+<a href="https://medium.com/@zulfikriyahya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zulfikriyahya" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/zulfikriyahya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zulfikriyahya" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/zulfikriyahya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zulfikriyahya" height="30" width="40" /></a>
+<a href="https://discord.gg/zulfikriyahya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zulfikriyahya" height="30" width="40" /></a>
+</p>
 
-## Connect with Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-{"instagram":"https://www.instagram.com/zulfikriyahya_/","linkedin":"https://www.linkedin.com/in/zulfikriyahya"}
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://github.com/zulfikriyahya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://github.com/zulfikriyahya" /></a><a href="https://ko-fi.com/https://github.com/zulfikriyahya"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://github.com/zulfikriyahya" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zulfikriyahya&show_icons=true&locale=en&layout=compact" alt="zulfikriyahya" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zulfikriyahya&show_icons=true&locale=en" alt="zulfikriyahya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zulfikriyahya&" alt="zulfikriyahya" /></p>

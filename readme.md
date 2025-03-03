@@ -25,25 +25,18 @@
 
 ### 📄 My Experiences
 - Check out my work and experiences at [My Resume](https://github.com/zulfikriyahya)
-
-
-
 ---
-
-### 📊 GitHub Stats
 <div align="center">
+### 📊 GitHub Stats
   <img src="https://github-readme-stats.vercel.app/api?username=zulfikriyahya&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=zulfikriyahya&theme=radical" alt="GitHub Streak" />
 </div>
-
 ---
-
-<h3 align="center">Let's Connect:</h3>
 <p align="center">
+<h3>Let's Connect:</h3>
   <a href="https://linkedin.com/in/zulfikriyahya">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  
   <a href="https://instagram.com/zulfikriyahya_">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>

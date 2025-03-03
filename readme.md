@@ -13,10 +13,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coder GIF" width="500"/>
-</p>
-
 ---
 
 ### 🔭 What I'm Working On

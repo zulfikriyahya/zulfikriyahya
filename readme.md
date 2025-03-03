@@ -56,6 +56,25 @@
 
 ---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zulfikriyahya&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfikriyahya&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zulfikriyahya&theme=radical" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=zulfikriyahya&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
 ### ⚡ Fun Facts
 - 🐱 Cats have fewer toes on their back paws.
 - 🌌 The Milky Way galaxy will collide with the Andromeda galaxy in about 4.5 billion years.

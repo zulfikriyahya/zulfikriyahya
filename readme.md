@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World! I'm Yahya Zulfikri 👋</h1>
+<h1 align="center">Hello, I'm Yahya Zulfikri 👋</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia.</h3>
 
 ---
@@ -38,9 +38,6 @@
 
 <h3 align="center">Let's Connect:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/zulfikriyahya">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
   <a href="https://instagram.com/zulfikriyahya_">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>

@@ -46,10 +46,11 @@
 ---
 
 <h3 align="left">Let's Connect:</h3>
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/zulfikriyahya">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  
   <a href="https://instagram.com/zulfikriyahya_">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>

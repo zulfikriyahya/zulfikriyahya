@@ -1,5 +1,5 @@
-<h1 align="center">Hello! I'm Yahya Zulfikri 👋</h1>
-<h3 align="center">A dedicated fullstack developer from Indonesia.</h3>
+<h1 align="center">Hello, World! I'm Yahya Zulfikri 👋</h1>
+<h3 align="center">A passionate fullstack developer from Indonesia.</h3>
 
 <p align="center">
   <a href="https://github.com/zulfikriyahya">
@@ -13,14 +13,36 @@
   </a>
 </p>
 
-- 🔭 I’m currently working at [MTs Negeri 1 Pandeglang](https://mtsn1pandeglang.sch.id)
-- 🌱 I’m currently mastering **Next.js** and **Laravel**
-- 👯 I’m looking to collaborate on various projects
-- 🤝 I’m looking for assistance with my repositories
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/zulfikriyahya)
-- 💬 Feel free to ask me about **Next.js, Laravel**
-- 📫 You can reach me at **zulfikriyahya18@gmail.com**
-- 📄 Check out my experiences and work at [My Resume](https://github.com/zulfikriyahya)
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coder GIF" width="500"/>
+</p>
+
+---
+
+### 🔭 What I'm Working On
+- Currently at [MTs Negeri 1 Pandeglang](https://mtsn1pandeglang.sch.id)
+- Mastering **Next.js** and **Laravel**
+
+### 🌱 What I'm Learning
+- Deep diving into **Next.js** and **Laravel**
+
+### 👯 What I'm Looking For
+- Collaborating on various projects
+- Seeking assistance with my repositories
+
+### 👨‍💻 My Projects
+- All of my projects are available at [My GitHub](https://github.com/zulfikriyahya)
+
+### 💬 Ask Me About
+- Feel free to ask me about **Next.js** and **Laravel**
+
+### 📫 How to Reach Me
+- You can email me at **zulfikriyahya18@gmail.com**
+
+### 📄 My Experiences
+- Check out my work and experiences at [My Resume](https://github.com/zulfikriyahya)
+
+---
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
@@ -30,4 +52,14 @@
   <a href="https://instagram.com/zulfikriyahya_">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
+</p>
+
+---
+
+### ⚡ Fun Facts
+- 🐱 Cats have fewer toes on their back paws.
+- 🌌 The Milky Way galaxy will collide with the Andromeda galaxy in about 4.5 billion years.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Fun GIF" width="400"/>
 </p>

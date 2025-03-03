@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yahya Zulfikri</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia.</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zulfikriyahya&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 - 🔭 I’m currently working on [MTs Negeri 1 Pandeglang](https://mtsn1pandeglang.sch.id)
 
 - 🌱 I’m currently learning **Nextjs** and **Laravel**

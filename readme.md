@@ -5,10 +5,10 @@
 
 ### 🔭 What I'm Working On
 - Currently at [MTs Negeri 1 Pandeglang](https://mtsn1pandeglang.sch.id)
-- Mastering **Next.js** and **Laravel**
+- Mastering **Astro** and **Laravel**
 
 ### 🌱 What I'm Learning
-- Deep diving into **Next.js** and **Laravel**
+- Deep diving into **Astro** and **Laravel**
 
 ### 👯 What I'm Looking For
 - Collaborating on various projects
@@ -17,14 +17,8 @@
 ### 👨‍💻 My Projects
 - All of my projects are available at [My GitHub](https://github.com/zulfikriyahya)
 
-### 💬 Ask Me About
-- Feel free to ask me about **Next.js** and **Laravel**
-
 ### 📫 How to Reach Me
 - You can email me at **zulfikriyahya18@gmail.com**
-
-### 📄 My Experiences
-- Check out my work and experiences at [My Resume](https://github.com/zulfikriyahya)
 
 ---
 

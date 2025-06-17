@@ -5,7 +5,7 @@
 
 ### 🔭 What I'm Working On
 - Currently at [MTs Negeri 1 Pandeglang](https://mtsn1pandeglang.sch.id)
-- Mastering **Astro** and **Laravel**
+- Mastering **Astro**, **Nextjs**, and **Laravel**
 
 ### 🌱 What I'm Learning
 - Deep diving into **Astro** and **Laravel**

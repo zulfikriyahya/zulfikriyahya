@@ -8,7 +8,7 @@
 - Mastering **Astro**, **Nextjs**, and **Laravel**
 
 ### 🌱 What I'm Learning
-- Deep diving into **Astro** and **Laravel**
+- Deep diving into **Astro**, **Nextjs**, and **Laravel**
 
 ### 👯 What I'm Looking For
 - Collaborating on various projects

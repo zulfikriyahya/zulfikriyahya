@@ -37,9 +37,9 @@ Currently contributing to digital transformation initiatives at [MTs Negeri 1 Pa
 
 ## 🛠️ Technical Expertise
 
-### 🎨 Frontend Technologies
 
 <div align="center">
+<h1>🎨 Frontend Technologies</h1>
 
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -52,9 +52,9 @@ Currently contributing to digital transformation initiatives at [MTs Negeri 1 Pa
 
 </div>
 
-### ⚙️ Backend Technologies
 
 <div align="center">
+<h1>⚙️ Backend Technologies</h1>
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -63,9 +63,9 @@ Currently contributing to digital transformation initiatives at [MTs Negeri 1 Pa
 
 </div>
 
-### 💾 Databases & Data Management
 
 <div align="center">
+<h1>💾 Databases & Data Management</h1>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -73,9 +73,9 @@ Currently contributing to digital transformation initiatives at [MTs Negeri 1 Pa
 
 </div>
 
-### 🔧 Development Tools & Platforms
 
 <div align="center">
+<h1>🔧 Development Tools & Platforms</h1>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)

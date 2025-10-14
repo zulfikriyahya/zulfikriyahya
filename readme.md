@@ -2,8 +2,6 @@
 
 # 🚀 YAHYA ZULFIKRI
 
-## _Full-Stack Developer | System Administrator | IT Technician_
-
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Eagle+Lake&size=32&duration=3000&pause=1000&color=ffa500&center=true&vCenter=true&width=600&lines=Lifelong+Learner;Building+Scalable+Solutions;Technology+%2B+Education;Innovation+%2B+Excellence" alt="Typing SVG" />

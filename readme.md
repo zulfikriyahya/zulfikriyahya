@@ -55,10 +55,10 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
+</div>
+
 I'm **Yahya Zulfikri**, a multi-disciplinary technology professional with expertise spanning from embedded systems and IoT to cloud-native architectures.  
 With a proven track record of designing and implementing innovative solutions, I combine technical excellence with a passion for education and knowledge sharing.
-
-</div>
 
 ### My Approach:
 

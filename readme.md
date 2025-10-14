@@ -1,7 +1,6 @@
 <div align="center">
 
-<h1> 🚀 YAHYA ZULFIKRI </h1>
-**_Full-Stack Developer | System Administrator | IT Technician_**
+# Full-Stack Developer | System Administrator | IT Technician
 
 <br/>
 

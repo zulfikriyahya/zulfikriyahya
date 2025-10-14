@@ -11,10 +11,13 @@
 
 <br/>
 
-- 🌍 Location: Pandeglang, Banten, Indonesia
-- 📧 Email: [zulfikriyahya18@gmail.com](mailto:zulfikriyahya18@gmail.com)
-- 🏢 Founder: ZEDLABS Teknologi Indonesia
-- 💼 Current: IT Technician at MTs Negeri 1 Pandeglang
+🌍 Location: Pandeglang, Banten, Indonesia
+
+📧 Email: [zulfikriyahya18@gmail.com](mailto:zulfikriyahya18@gmail.com)
+
+🏢 Founder: ZEDLABS Teknologi Indonesia
+
+💼 Current: IT Technician at MTs Negeri 1 Pandeglang
 
 ---
 
@@ -44,19 +47,11 @@
 
 ## 👤 ABOUT ME
 
-<div align="center">
-
-```bash
-
 ╔═══════════════════════════════════════════════════════════════╗
 ║  IT TECHNICIAN | FULL-STACK DEVELOPER | SYSTEM ADMINISTRATOR  ║
 ║           Passionate About Technology & Education             ║
 ║                Debian Enthusiast | Tech Innovator             ║
 ╚═══════════════════════════════════════════════════════════════╝
-
-```
-
-</div>
 
 I'm **Yahya Zulfikri**, a multi-disciplinary technology professional with expertise spanning from embedded systems and IoT to cloud-native architectures.  
 With a proven track record of designing and implementing innovative solutions, I combine technical excellence with a passion for education and knowledge sharing.
@@ -144,11 +139,7 @@ With a proven track record of designing and implementing innovative solutions, I
 
 ## 💼 PROFESSIONAL EXPERIENCE
 
-<div align="center">
-
 ### CAREER TIMELINE
-
-```bash
 
 2022 - PRESENT        2018 - PRESENT         2017 - PRESENT
 ┌──────────┐          ┌──────────┐           ┌──────────┐
@@ -157,10 +148,6 @@ With a proven track record of designing and implementing innovative solutions, I
 │Pandeglang│          │Indonesia │           │          │
 └──────────┘          └──────────┘           └──────────┘
 IT Technician        Founder & CEO          Full-Stack Dev
-
-```
-
-</div>
 
 | 🏢 **Organization**                                       | 📍 **Role**                          | ⏰ **Timeline** | 🎯 **Responsibilities**                                            |
 | --------------------------------------------------------- | ------------------------------------ | --------------- | ------------------------------------------------------------------ |
@@ -200,11 +187,8 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 ## 🎓 EXPERTISE & COMPETENCIES
 
-<div align="center">
-
 ### 🏆 CORE COMPETENCIES
 
-```bash
 ┌───────────────────────────────────────────────────────┐
 │  WEB DEVELOPMENT                                      │
 │  ✓ Full-Stack Architecture  ✓ Microservices           │
@@ -234,19 +218,12 @@ IT Technician        Founder & CEO          Full-Stack Dev
 │  ✓ Clean Code Principles  ✓ Design Patterns           │
 │  ✓ Performance Optimization  ✓ Security Best Practices|
 └───────────────────────────────────────────────────────┘
-```
-
-</div>
 
 ---
 
 ## 🚀 SERVICES & SOLUTIONS
 
-<div align="center">
-
 ### 🎯 WHAT I OFFER
-
-</div>
 
 #### 💻 **Full-Stack Web Development**
 
@@ -292,8 +269,6 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 ## 🌟 FEATURED HIGHLIGHTS
 
-<div align="center">
-
 ### 🏆 KEY ACHIEVEMENTS
 
 ✨ Founded and scaled ZEDLABS Teknologi Indonesia
@@ -324,13 +299,9 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 **Infrastructure Projects** - Server virtualization and network optimization
 
-</div>
-
 ---
 
 ## 📚 CONTINUOUS LEARNING
-
-<div align="center">
 
 ### 🎓 DEVELOPMENT ROADMAP
 
@@ -356,13 +327,9 @@ IT Technician        Founder & CEO          Full-Stack Dev
 ├─ Emerging Frameworks & Technologies
 └─ Technical Leadership & Mentorship
 
-</div>
-
 ---
 
 ## 🔗 CONNECT WITH ME
-
-<div align="center">
 
 ### 📱 PROFESSIONAL NETWORKS
 
@@ -387,13 +354,9 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 💻 GitHub: github.com/zulfikriyahya
 
-</div>
-
 ---
 
 ## 💫 SPECIAL INTERESTS
-
-<div align="center">
 
 | Interest                 | Focus                                      |
 | ------------------------ | ------------------------------------------ |
@@ -406,13 +369,9 @@ IT Technician        Founder & CEO          Full-Stack Dev
 | 🔐 **Security**          | Protecting systems and data integrity      |
 | 🚀 **Innovation**        | Exploring emerging technologies            |
 
-</div>
-
 ---
 
 ## 🎯 OPPORTUNITIES & COLLABORATION
-
-<div align="center">
 
 ### 🤝 I'M OPEN TO
 
@@ -432,13 +391,9 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 ✅ Startup Ventures
 
-</div>
-
 ---
 
 ## 💡 PHILOSOPHY & MINDSET
-
-<div align="center">
 
 ### 🧠 MY CORE VALUES
 > "Technology bridges the gap between dreams and
@@ -461,9 +416,8 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 **Continuous Growth** - Today's achievement is tomorrow's baseline
 
-</div>
-
 ---
+<div align="center">
 
 ### 📊 QUICK STATS
 
@@ -494,5 +448,4 @@ _Last Updated: October 2025_
 💪 **Motto:** Lifelong Learner
 
 ---
-
 </div>

@@ -341,9 +341,9 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 ### 📞 DIRECT CONTACT
 
-**📧 Email:** zulfikriyahya18@gmail.com | **💼 LinkedIn:** linkedin.com/in/zulfikriyahya
+**📧 Email:** zulfikriyahya18@gmail.com | **💼 LinkedIn:** https://linkedin.com/in/zulfikriyahya
 
-**🌐 Website:** zedlabs.id | **📖 Docs:** docs.zedlabs.id | **💻 GitHub:** github.com/zulfikriyahya
+**🌐 Website:** https://zedlabs.id | **📖 Docs:** https://docs.zedlabs.id | **💻 GitHub:** https://github.com/zulfikriyahya
 
 </div>
 

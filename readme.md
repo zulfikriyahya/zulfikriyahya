@@ -47,7 +47,7 @@
 
 <div align="center>
 
-```
+```bash
 ╔═══════════════════════════════════════════════════════════════╗
 ║  IT TECHNICIAN | FULL-STACK DEVELOPER | SYSTEM ADMINISTRATOR  ║
 ║           Passionate About Technology & Education             ║
@@ -78,10 +78,11 @@ With a proven track record of designing and implementing innovative solutions, I
 
 ---
 
-<div align="center">
 
 ## 🛠️ TECHNOLOGY ARSENAL
 
+<div align="center">
+  
 ### 🎨 FRONTEND MASTERY
 
 
@@ -132,9 +133,10 @@ With a proven track record of designing and implementing innovative solutions, I
 
 ## 💼 PROFESSIONAL EXPERIENCE
 
+<div align="center">
+
 ### CAREER TIMELINE
 
-<div align="center">
 
 ```
 2022 - PRESENT        2018 - PRESENT         2017 - PRESENT

@@ -45,7 +45,7 @@
 
 ## 👤 ABOUT ME
 
-<div align="center>
+<div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
@@ -55,12 +55,12 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-</div>
-
 I'm **Yahya Zulfikri**, a multi-disciplinary technology professional with expertise spanning from embedded systems and IoT to cloud-native architectures.  
 With a proven track record of designing and implementing innovative solutions, I combine technical excellence with a passion for education and knowledge sharing.
 
-**My Approach:**
+</div>
+
+### My Approach:
 
 - 🎯 **Problem-First Mindset** – Understand challenges before crafting solutions
 - 💡 **Innovation-Driven** – Leverage emerging technologies for competitive advantage
@@ -68,7 +68,7 @@ With a proven track record of designing and implementing innovative solutions, I
 - 🤝 **Collaborative Spirit** – Believe in teamwork and mentorship
 - 🔐 **Quality Obsessed** – Every line of code follows clean code principles
 
-**Current Focus Areas:**
+### Current Focus Areas:
 
 - Full-stack web development with modern frameworks
 - System architecture and infrastructure design
@@ -84,7 +84,6 @@ With a proven track record of designing and implementing innovative solutions, I
 <div align="center">
   
 ### 🎨 FRONTEND MASTERY
-
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)

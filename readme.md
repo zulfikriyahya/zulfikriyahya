@@ -296,22 +296,33 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 ### 🏆 KEY ACHIEVEMENTS
 
-- ✨ Founded and scaled ZEDLABS Teknologi Indonesia
-- ✨ Developed 50+ full-stack web applications
-- ✨ Managed critical IT infrastructure for educational institution
-- ✨ Mentored 100+ junior developers
-- ✨ Contributed to open-source projects
-- ✨ Specialized in Laravel, React, and Node.js ecosystems
-- ✨ Expert in Debian Linux and server administration
-- ✨ Professional in IoT and embedded systems development
+✨ Founded and scaled ZEDLABS Teknologi Indonesia
+
+✨ Developed 50+ full-stack web applications
+
+✨ Managed critical IT infrastructure for educational institution
+
+✨ Mentored 100+ junior developers
+
+✨ Contributed to open-source projects
+
+✨ Specialized in Laravel, React, and Node.js ecosystems
+
+✨ Expert in Debian Linux and server administration
+
+✨ Professional in IoT and embedded systems development
 
 ### 🎨 PROJECT HIGHLIGHTS
 
-- **Enterprise Web Applications** - Multi-tenant SaaS platforms using Laravel & React
-- **Educational Technology** - Learning management systems for institutions
-- **IoT Solutions** - Smart monitoring systems using microcontrollers
-- **API Services** - RESTful and GraphQL APIs serving millions of requests
-- **Infrastructure Projects** - Server virtualization and network optimization
+**Enterprise Web Applications** - Multi-tenant SaaS platforms using Laravel & React
+
+**Educational Technology** - Learning management systems for institutions
+
+**IoT Solutions** - Smart monitoring systems using microcontrollers
+
+**API Services** - RESTful and GraphQL APIs serving millions of requests
+
+**Infrastructure Projects** - Server virtualization and network optimization
 
 </div>
 
@@ -323,15 +334,14 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 ### 🎓 DEVELOPMENT ROADMAP
 
-```bash
-CURRENT MASTERY:
+**CURRENT MASTERY:**
 ├─ Full-Stack Web Development ✅
 ├─ System Administration ✅
 ├─ Database Design & Optimization ✅
 ├─ IoT & Embedded Systems ✅
 └─ Clean Code & Best Practices ✅
 
-ACTIVELY LEARNING:
+**ACTIVELY LEARNING:**
 ├─ Advanced Cloud Architecture (AWS, GCP, Azure)
 ├─ Kubernetes & Container Orchestration
 ├─ GraphQL & Advanced API Design
@@ -339,13 +349,12 @@ ACTIVELY LEARNING:
 ├─ Cybersecurity & Infrastructure Hardening
 └─ Advanced Performance Engineering
 
-FUTURE FOCUS:
+**FUTURE FOCUS:**
 ├─ AI-Powered Solutions
 ├─ Blockchain & Web3 Technologies
 ├─ Advanced System Design
 ├─ Emerging Frameworks & Technologies
 └─ Technical Leadership & Mentorship
-```
 
 </div>
 
@@ -368,13 +377,15 @@ FUTURE FOCUS:
 
 ### 📞 DIRECT CONTACT
 
-```
 📧 Email: zulfikriyahya18@gmail.com
+
 💼 LinkedIn: linkedin.com/in/zulfikriyahya
+
 🌐 Website: zedlabs.id
+
 📖 Docs: docs.zedlabs.id
+
 💻 GitHub: github.com/zulfikriyahya
-```
 
 </div>
 
@@ -405,14 +416,21 @@ FUTURE FOCUS:
 
 ### 🤝 I'M OPEN TO
 
-- ✅ Full-Stack Web Development Projects
-- ✅ System Architecture & Consulting
-- ✅ IoT & Embedded Systems Solutions
-- ✅ Technical Mentorship & Training
-- ✅ Business Partnerships
-- ✅ Open Source Contributions
-- ✅ Freelance Contracts
-- ✅ Startup Ventures
+✅ Full-Stack Web Development Projects
+
+✅ System Architecture & Consulting
+
+✅ IoT & Embedded Systems Solutions
+
+✅ Technical Mentorship & Training
+
+✅ Business Partnerships
+
+✅ Open Source Contributions
+
+✅ Freelance Contracts
+
+✅ Startup Ventures
 
 </div>
 
@@ -431,12 +449,17 @@ FUTURE FOCUS:
 
 **🎯 My Principles:**
 
-- **Excellence First** - Quality over quantity, always
-- **Lifelong Learning** - Stay curious, stay ahead
-- **Problem Solving** - Find elegant solutions to complex challenges
-- **Collaboration** - Great things happen together
-- **Impact Driven** - Build solutions that matter
-- **Continuous Growth** - Today's achievement is tomorrow's baseline
+**Excellence First** - Quality over quantity, always
+
+**Lifelong Learning** - Stay curious, stay ahead
+
+**Problem Solving** - Find elegant solutions to complex challenges
+
+**Collaboration** - Great things happen together
+
+**Impact Driven** - Build solutions that matter
+
+**Continuous Growth** - Today's achievement is tomorrow's baseline
 
 </div>
 
@@ -464,11 +487,11 @@ _Last Updated: October 2025_
 
 <br/>
 
-```
-🎯 Vision: Technology for Everyone
-🌟 Mission: Build, Learn, Teach, Grow
-💪 Motto: Lifelong Learner
-```
+🎯 **Vision:** Technology for Everyone
+
+🌟 **Mission:** Build, Learn, Teach, Grow
+
+💪 **Motto:** Lifelong Learner
 
 ---
 

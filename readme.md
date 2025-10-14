@@ -155,7 +155,7 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 ---
 
-## 📊 GITHUB ANALYTICS & STATISTICS
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 

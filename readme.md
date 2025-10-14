@@ -197,27 +197,27 @@ IT Technician        Founder & CEO          Full-Stack Dev
 └───────────────────────────────────────────────────────┘
 
 ┌───────────────────────────────────────────────────────┐
-│ SYSTEM ADMINISTRATION │
-│ ✓ Server Management ✓ Networking │
-│ ✓ Infrastructure Design ✓ DevOps & Automation │
+│ SYSTEM ADMINISTRATION                                 │
+│ ✓ Server Management ✓ Networking                      │
+│ ✓ Infrastructure Design ✓ DevOps & Automation         │
 └───────────────────────────────────────────────────────┘
 
 ┌───────────────────────────────────────────────────────┐
-│ DATABASE ENGINEERING │
-│ ✓ Relational & NoSQL Databases │
-│ ✓ Performance Optimization ✓ Data Modeling │
+│ DATABASE ENGINEERING                                  │
+│ ✓ Relational & NoSQL Databases                        │
+│ ✓ Performance Optimization ✓ Data Modeling            │
 └───────────────────────────────────────────────────────┘
 
 ┌───────────────────────────────────────────────────────┐
-│ IoT & EMBEDDED SYSTEMS │
-│ ✓ Microcontroller Programming ✓ Hardware Design │
-│ ✓ IoT Solutions ✓ Edge Computing │
+│ IoT & EMBEDDED SYSTEMS                                │
+│ ✓ Microcontroller Programming ✓ Hardware Design       │
+│ ✓ IoT Solutions ✓ Edge Computing                      │
 └───────────────────────────────────────────────────────┘
 
 ┌───────────────────────────────────────────────────────┐
-│ SOFTWARE ENGINEERING │
-│ ✓ Clean Code Principles ✓ Design Patterns │
-│ ✓ Performance Optimization ✓ Security Best Practices|
+│ SOFTWARE ENGINEERING                                  │
+│ ✓ Clean Code Principles ✓ Design Patterns             │
+│ ✓ Performance Optimization ✓ Security Best Practices  |
 └───────────────────────────────────────────────────────┘
 
 ```

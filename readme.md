@@ -278,33 +278,22 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 ### 🏆 KEY ACHIEVEMENTS
 
-✨ Founded and scaled ZEDLABS Teknologi Indonesia
-
-✨ Developed 50+ full-stack web applications
-
-✨ Managed critical IT infrastructure for educational institution
-
-✨ Mentored 100+ junior developers
-
-✨ Contributed to open-source projects
-
-✨ Specialized in Laravel, React, and Node.js ecosystems
-
-✨ Expert in Debian Linux and server administration
-
-✨ Professional in IoT and embedded systems development
+- ✨ Founded and scaled ZEDLABS Teknologi Indonesia
+- ✨ Developed 50+ full-stack web applications
+- ✨ Managed critical IT infrastructure for educational institution
+- ✨ Mentored 100+ junior developers
+- ✨ Contributed to open-source projects
+- ✨ Specialized in Laravel, React, and Node.js ecosystems
+- ✨ Expert in Debian Linux and server administration
+- ✨ Professional in IoT and embedded systems development
 
 ### 🎨 PROJECT HIGHLIGHTS
 
-**Enterprise Web Applications** - Multi-tenant SaaS platforms using Laravel & React
-
-**Educational Technology** - Learning management systems for institutions
-
-**IoT Solutions** - Smart monitoring systems using microcontrollers
-
-**API Services** - RESTful and GraphQL APIs serving millions of requests
-
-**Infrastructure Projects** - Server virtualization and network optimization
+- **Enterprise Web Applications** - Multi-tenant SaaS platforms using Laravel & React
+- **Educational Technology** - Learning management systems for institutions
+- **IoT Solutions** - Smart monitoring systems using microcontrollers
+- **API Services** - RESTful and GraphQL APIs serving millions of requests
+- **Infrastructure Projects** - Server virtualization and network optimization
 
 ---
 
@@ -340,26 +329,22 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 ### 📱 PROFESSIONAL NETWORKS
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&shadow)](https://www.linkedin.com/in/zulfikriyahya)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&shadow)](https://github.com/zulfikriyahya)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&shadow)](mailto:zulfikriyahya18@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&shadow)](https://www.linkedin.com/in/zulfikriyahya)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&shadow)](https://github.com/zulfikriyahya)
+- [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&shadow)](mailto:zulfikriyahya18@gmail.com)
 
 ### 🌐 BUSINESS & PORTFOLIO
 
-[![ZEDLABS](https://img.shields.io/badge/ZEDLABS%20Teknologi-7B44F6?style=for-the-badge&logo=web&logoColor=white&labelColor=7B44F6&shadow)](https://zedlabs.id)
-[![Documentation](https://img.shields.io/badge/Technical%20Documentation-00D9FF?style=for-the-badge&logo=markdown&logoColor=white&labelColor=00D9FF&shadow)](https://docs.zedlabs.id)
+- [![ZEDLABS](https://img.shields.io/badge/ZEDLABS%20Teknologi-7B44F6?style=for-the-badge&logo=web&logoColor=white&labelColor=7B44F6&shadow)](https://zedlabs.id)
+- [![Documentation](https://img.shields.io/badge/Technical%20Documentation-00D9FF?style=for-the-badge&logo=markdown&logoColor=white&labelColor=00D9FF&shadow)](https://docs.zedlabs.id)
 
 ### 📞 DIRECT CONTACT
 
-📧 Email: zulfikriyahya18@gmail.com
-
-💼 LinkedIn: linkedin.com/in/zulfikriyahya
-
-🌐 Website: zedlabs.id
-
-📖 Docs: docs.zedlabs.id
-
-💻 GitHub: github.com/zulfikriyahya
+- 📧 Email: zulfikriyahya18@gmail.com
+- 💼 LinkedIn: linkedin.com/in/zulfikriyahya
+- 🌐 Website: zedlabs.id
+- 📖 Docs: docs.zedlabs.id
+- 💻 GitHub: github.com/zulfikriyahya
 
 ---
 
@@ -382,21 +367,14 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 ### 🤝 I'M OPEN TO
 
-✅ Full-Stack Web Development Projects
-
-✅ System Architecture & Consulting
-
-✅ IoT & Embedded Systems Solutions
-
-✅ Technical Mentorship & Training
-
-✅ Business Partnerships
-
-✅ Open Source Contributions
-
-✅ Freelance Contracts
-
-✅ Startup Ventures
+- ✅ Full-Stack Web Development Projects
+- ✅ System Architecture & Consulting
+- ✅ IoT & Embedded Systems Solutions
+- ✅ Technical Mentorship & Training
+- ✅ Business Partnerships
+- ✅ Open Source Contributions
+- ✅ Freelance Contracts
+- ✅ Startup Ventures
 
 ---
 
@@ -411,19 +389,15 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 **🎯 My Principles:**
 
-**Excellence First** - Quality over quantity, always
-
-**Lifelong Learning** - Stay curious, stay ahead
-
-**Problem Solving** - Find elegant solutions to complex challenges
-
-**Collaboration** - Great things happen together
-
-**Impact Driven** - Build solutions that matter
-
-**Continuous Growth** - Today's achievement is tomorrow's baseline
+- **Excellence First** - Quality over quantity, always
+- **Lifelong Learning** - Stay curious, stay ahead
+- **Problem Solving** - Find elegant solutions to complex challenges
+- **Collaboration** - Great things happen together
+- **Impact Driven** - Build solutions that matter
+- **Continuous Growth** - Today's achievement is tomorrow's baseline
 
 ---
+
 <div align="center">
 
 ### 📊 QUICK STATS

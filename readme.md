@@ -1,181 +1,227 @@
 <div align="center">
-<h1>👋 Hello! I'm Yahya Zulfikri</h1>
-  
-  **✨ Fullstack Developer | Web Enthusiast | Tech Innovator ✨**
-  
-  Crafting elegant solutions through modern web technologies
-  
-  📍 Based in Pandeglang, Banten, Indonesia 🇮🇩
-  
-</div>
+
+# 👋 Yahya Zulfikri
+
+### *IT Technician | Full-stack Developer | System Administrator*
+
+<br/>
+
+**🚀 Passionate about technology, education, and building scalable solutions**
+
+*Lifelong Learner | Debian Enthusiast | Tech Innovator*
 
 ---
 
-## 🎯 About Me
-
-I'm a dedicated fullstack developer passionate about building scalable, high-performance web applications. With expertise spanning both frontend and backend technologies, I specialize in creating seamless user experiences paired with robust server-side architectures.
-
-**My Philosophy:** Clean code, continuous learning, and delivering exceptional user value.
-
-Currently contributing to digital transformation initiatives at [MTs Negeri 1 Pandeglang](https://mtsn1pandeglang.sch.id), where I combine professional excellence with educational impact.
-
----
-
-## 🚀 What I'm Currently Working On
-
-<div align="center">
-
-| 🎯 Focus | 📚 Learning | 🤝 Seeking |
-|---------|-----------|-----------|
-| **Building fullstack applications** | Deep mastery of **Astro**, **Next.js**, and **Laravel** | **Collaboration opportunities** |
-| **Web performance optimization** | Advanced **TypeScript** patterns | **Open-source contributions** |
-| **Modern web architectures** | Cloud deployment & DevOps | **Mentorship & partnerships** |
+📍 **Pandeglang, Banten - Indonesia**  
+📧 **[zulfikriyahya18@gmail.com](mailto:zulfikriyahya18@gmail.com)**
 
 </div>
 
 ---
 
-## 🛠️ Technical Expertise
+## 🌟 About Me
 
+I'm **Yahya Zulfikri**, an IT Technician, Full-stack Developer, and System Administrator with an unwavering passion for technology and education. With expertise spanning from hardware to cloud architecture, I design and implement innovative solutions that bridge the gap between complex systems and user-friendly applications.
+
+**My Mission:** Build robust, scalable, and maintainable systems while continuously expanding my knowledge and sharing insights with the tech community.
+
+**Currently:** IT Professional at [MTs Negeri 1 Pandeglang](https://mtsn1pandeglang.sch.id) | Founder & CEO at [ZEDLABS Teknologi Indonesia](https://zedlabs.id) | Freelance Full-stack Developer
+
+---
+
+## 💼 Professional Experience
+
+| Role | Organization | Focus |
+|------|--------------|-------|
+| **IT Technician & Full-stack Developer** | [MTs Negeri 1 Pandeglang](https://mtsn1pandeglang.sch.id) | Infrastructure & Web Solutions |
+| **Founder & CEO** | [ZEDLABS Teknologi Indonesia](https://zedlabs.id) | Technology Services & Consulting |
+| **Freelance Developer** | Contract & Project-Based | Full-stack Web Development |
+
+---
+
+## 🛠️ Technology Stack
+
+### 🎨 **Frontend Development**
 
 <div align="center">
-<h1>🎨 Frontend Technologies</h1>
 
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
+### ⚙️ **Backend Development**
 
 <div align="center">
-<h1>⚙️ Backend Technologies</h1>
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FB7185?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 </div>
 
+### 💾 **Databases & Data Management**
 
 <div align="center">
-<h1>💾 Databases & Data Management</h1>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
+### 🔧 **Tools & Infrastructure**
 
 <div align="center">
-<h1>🔧 Development Tools & Platforms</h1>
 
+![Directus](https://img.shields.io/badge/Directus-7B44F6?style=for-the-badge&logo=directus&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=api&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
+</div>
+
+### 🔌 **IoT & Embedded Systems**
+
+<div align="center">
+
+![IoT Microcontroller](https://img.shields.io/badge/IoT%20Microcontroller-0066CC?style=for-the-badge&logo=arduino&logoColor=white)
+![Elektronika](https://img.shields.io/badge/Elektronika-FF6B35?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 GitHub Statistics & Analytics
+## 🎯 Core Competencies
 
 <div align="center">
 
-![Yahya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zulfikriyahya&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zulfikriyahya&layout=compact&theme=radical&hide_border=true&langs_count=10)
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zulfikriyahya&theme=radical&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zulfikriyahya&theme=radical&hide_border=true)
+| Category | Skills |
+|----------|--------|
+| **Web Architecture** | Full-stack Development, Microservices, API Design & Development |
+| **System Administration** | Server Management, Networking, Infrastructure Design, DevOps |
+| **Database Design** | Relational & NoSQL Databases, Performance Optimization, Data Modeling |
+| **Code Quality** | Clean Code Principles, Design Patterns, Continuous Integration |
+| **Technology** | Hardware to Cloud, IoT Solutions, Edge Computing |
+| **Soft Skills** | Problem Solving, Technical Documentation, Education & Mentoring |
 
 </div>
 
 ---
 
-## 🎓 Learning Roadmap
+## 📊 GitHub Statistics & Analytics
 
-I'm committed to mastering cutting-edge technologies:
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zulfikriyahya&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&line_height=27)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zulfikriyahya&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=500)
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zulfikriyahya&theme=radical&hide_border=true&stroke=00FF00)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=zulfikriyahya&style=flat-square&color=blueviolet)
+
+</div>
+
+---
+
+## 🚀 What I Do
+
+### **As a Full-stack Developer**
+I craft end-to-end web solutions using modern frameworks and best practices. From responsive frontends with React/Vue to scalable backends with Laravel/Node.js, I deliver production-ready applications.
+
+### **As a System Administrator**
+I design, implement, and maintain robust IT infrastructure. Specializing in Linux/Debian environments, server management, networking, and ensuring optimal system performance and security.
+
+### **As an IT Technician**
+I provide technical support and solutions for educational institutions, combining hardware troubleshooting with software optimization to enhance educational technology.
+
+### **As an Entrepreneur**
+Through [ZEDLABS Teknologi Indonesia](https://zedlabs.id), I provide comprehensive technology services, consulting, and custom solutions for businesses.
+
+---
+
+## 📚 Learning & Development
+
+I'm committed to continuous improvement and staying at the cutting edge of technology:
 
 ```
-📍 Current Focus:
-├── 🎯 Astro - Static site generation & partial hydration
-├── 🎯 Next.js - Full-stack React framework with advanced features
-└── 🎯 Laravel - Enterprise-grade PHP framework
+🎓 Current Focus Areas:
+├── Advanced System Architecture
+├── Cloud-Native Development
+├── DevOps & Infrastructure Automation
+├── IoT & Edge Computing Solutions
+├── Performance Optimization Techniques
+└── Emerging Web Technologies
 
-📍 Next Phase:
-├── 🚀 Advanced TypeScript patterns & best practices
-├── 🚀 Cloud architecture (AWS, Google Cloud, Azure)
-├── 🚀 DevOps & CI/CD pipelines
-├── 🚀 Microservices architecture
-└── 🚀 Web3 & Blockchain technologies
-
-📍 Continuous:
-├── 💡 Web performance optimization
-├── 💡 Security best practices
-├── 💡 System design principles
-└── 💡 Clean code & design patterns
+📖 Knowledge Sharing:
+├── Technical Documentation at docs.zedlabs.id
+├── Code Examples & Best Practices
+├── Educational Resources
+└── Community Contributions
 ```
 
 ---
 
-## 🚀 Featured Projects
+## 🌐 Digital Presence & Services
 
 <div align="center">
 
-**All my projects showcase modern development practices and production-ready code:**
+### Professional Platforms
 
-[![GitHub](https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zulfikriyahya?tab=repositories)
-
-</div>
-
----
-
-## 💡 What I'm Looking For
-
-- 🤝 **Collaboration Opportunities** - Join forces on innovative web projects
-- 🔗 **Open Source Contribution** - Give back to the developer community
-- 📚 **Knowledge Sharing** - Mentoring and learning from fellow developers
-- 💼 **Partnership Opportunities** - Building solutions that make an impact
-- 🎯 **Challenging Projects** - Push boundaries and learn new technologies
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-**Let's build something amazing together!**
-
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zulfikriyahya18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zulfikriyahya)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zulfikriyahya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zulfikriyahya/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zulfikriyahya)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zulfikriyahya)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zulfikriyahya18@gmail.com)
+
+### Business & Portfolio
+
+[![ZEDLABS Website](https://img.shields.io/badge/ZEDLABS%20Teknologi%20Indonesia-7B44F6?style=for-the-badge&logo=web&logoColor=white)](https://zedlabs.id)
+[![Documentation](https://img.shields.io/badge/Technical%20Documentation-00D9FF?style=for-the-badge&logo=markdown&logoColor=white)](https://docs.zedlabs.id)
 
 </div>
+
+---
+
+## 💡 Special Interests
+
+- **Photography** - Capturing moments and perspectives
+- **IoT & Microcontroller Projects** - Building smart solutions
+- **Clean Code & Best Practices** - Writing maintainable software
+- **Networking & Infrastructure** - Designing robust systems
+- **Education & Knowledge Sharing** - Helping others grow
+- **Open Source** - Contributing to the community
+
+---
+
+## 🎯 Looking For
+
+- 🤝 **Collaboration Opportunities** - Let's build something amazing together
+- 💼 **Freelance Projects** - Full-stack web development & system solutions
+- 📚 **Mentoring & Knowledge Sharing** - Teaching & learning from the community
+- 🔗 **Partnerships** - Growing ZEDLABS Teknologi Indonesia
+- 🚀 **Challenging Opportunities** - Pushing boundaries and learning new technologies
 
 ---
 
@@ -183,91 +229,47 @@ I'm committed to mastering cutting-edge technologies:
 
 <div align="center">
 
-**📧 Email:** zulfikriyahya18@gmail.com
+**I'm always happy to connect, discuss projects, or help with technical challenges!**
 
-**💬 Open to discussions about:**
-- Web development opportunities
-- Freelance/contract work
-- Collaboration & partnerships
-- Tech mentoring & knowledge sharing
-- Interesting project ideas
-
-</div>
-
----
-
-## 📊 Quick Stats
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=zulfikriyahya&style=flat-square&color=blueviolet)
-
-![Total Repos](https://img.shields.io/badge/Total%20Repositories-10+-blue?style=flat-square)
-
-![Years Experience](https://img.shields.io/badge/Years%20Coding-3+-green?style=flat-square)
-
-![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+- 📧 **Email:** [zulfikriyahya18@gmail.com](mailto:zulfikriyahya18@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/zulfikriyahya](https://www.linkedin.com/in/zulfikriyahya)
+- 🌐 **Website:** [zedlabs.id](https://zedlabs.id)
+- 📖 **Documentation:** [docs.zedlabs.id](https://docs.zedlabs.id)
+- 💻 **GitHub:** [github.com/zulfikriyahya](https://github.com/zulfikriyahya)
 
 </div>
 
 ---
 
-## 💻 Recent Activity
+## 🌟 Philosophy
 
-<div align="center">
+> **"Technology is not just about code—it's about solving problems, creating value, and continuously growing. Every challenge is an opportunity to learn, and every solution is a chance to make a difference."**
 
-![Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=zulfikriyahya&theme=radical&hide_border=true)
-
-</div>
+**Lifelong Learner | Problem Solver | Tech Enthusiast**
 
 ---
 
-## 🎯 Development Environment
+## 💫 Support & Contribution
 
-<div align="center">
+If you find my work valuable, please consider:
 
-**My Favorite Setup:**
-
-- 💻 OS: Linux | Windows | macOS
-- 📝 Editor: Visual Studio Code
-- 🎨 Theme: Dracula | Nord
-- ⚡ Terminal: Zsh with Oh My Zsh
-- 📦 Package Manager: npm | yarn | pnpm
-- 🔧 Version Control: Git & GitHub
-
-
-</div>
-
----
-
-## ⚡ Quick Facts About Me
-
-- 🔥 Passionate about clean, maintainable code
-- 🎯 Problem solver with a focus on user experience
-- 📚 Lifelong learner embracing continuous improvement
-- 🤝 Team player who values collaboration
-- 💡 Creative thinker bringing innovative solutions
-- ⚙️ Detail-oriented with an eye for quality
-- 🚀 Always exploring emerging technologies
-
----
-
-## 🌟 Support My Work
-
-If you find my repositories helpful or inspiring, please consider:
-- ⭐ Starring my repositories
-- 🔄 Contributing improvements
-- 📢 Sharing my work with others
-- 💬 Providing feedback and suggestions
+- ⭐ Starring repositories that inspire you
+- 🔄 Contributing improvements and feedback
+- 📢 Sharing my work with your network
+- 💬 Connecting and discussing technology
 
 ---
 
 <div align="center">
 
-### 🙏 Thank You for Visiting!
+### ✨ Thank You for Visiting! ✨
 
-*Made with ❤️ by Yahya Zulfikri*
+*Made with ❤️ and ☕ by Yahya Zulfikri*
 
-**Let's create something extraordinary together!**
+**Let's build the future together!**
+
+---
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=zulfikriyahya.zulfikriyahya)
 
 </div>

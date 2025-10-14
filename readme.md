@@ -6,15 +6,15 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Lifelong+Learner;Building+Scalable+Solutions;Technology+%2B+Education;Innovation+%2B+Excellence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=008081&center=true&vCenter=true&width=600&lines=Lifelong+Learner;Building+Scalable+Solutions;Technology+%2B+Education;Innovation+%2B+Excellence" alt="Typing SVG" />
 </div>
 
 <br/>
 
-🌍 Location: Pandeglang, Banten, Indonesia
-📧 Email: [zulfikriyahya18@gmail.com](mailto:zulfikriyahya18@gmail.com)
-🏢 Founder: ZEDLABS Teknologi Indonesia
-💼 Current: IT Technician at MTs Negeri 1 Pandeglang
+- 🌍 Location: Pandeglang, Banten, Indonesia
+- 📧 Email: [zulfikriyahya18@gmail.com](mailto:zulfikriyahya18@gmail.com)
+- 🏢 Founder: ZEDLABS Teknologi Indonesia
+- 💼 Current: IT Technician at MTs Negeri 1 Pandeglang
 
 ---
 
@@ -149,7 +149,7 @@ With a proven track record of designing and implementing innovative solutions, I
 
 ```bash
 
-2024 - PRESENT        2020 - PRESENT         2019 - PRESENT
+2022 - PRESENT        2018 - PRESENT         2017 - PRESENT
 ┌──────────┐          ┌──────────┐           ┌──────────┐
 │   MTs    │          │ ZEDLABS  │           │ FREELANCE│
 │ Negeri 1 │          │Teknologi │           │Developer │
@@ -163,9 +163,9 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 | 🏢 **Organization**                                       | 📍 **Role**                          | ⏰ **Timeline** | 🎯 **Responsibilities**                                            |
 | --------------------------------------------------------- | ------------------------------------ | --------------- | ------------------------------------------------------------------ |
-| [MTs Negeri 1 Pandeglang](https://mtsn1pandeglang.sch.id) | IT Technician & Full-stack Developer | 2024 - Present  | Infrastructure Management, Web Solutions, Technical Support        |
-| [ZEDLABS Teknologi Indonesia](https://zedlabs.id)         | Founder & CEO                        | 2020 - Present  | Technology Consulting, Business Solutions, Team Leadership         |
-| Freelance                                                 | Full-stack Developer                 | 2019 - Present  | Contract Web Development, System Integration, Technical Consulting |
+| [MTs Negeri 1 Pandeglang](https://mtsn1pandeglang.sch.id) | IT Technician & Full-stack Developer | 2022 - Present  | Infrastructure Management, Web Solutions, Technical Support        |
+| [ZEDLABS Teknologi Indonesia](https://zedlabs.id)         | Founder & CEO                        | 2018 - Present  | Technology Consulting, Business Solutions, Team Leadership         |
+| Freelance                                                 | Full-stack Developer                 | 2017 - Present  | Contract Web Development, System Integration, Technical Consulting |
 
 ---
 
@@ -183,7 +183,7 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 ### 🔥 CONTRIBUTION STREAK
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=zulfikriyahya&theme=radical&hide_border=false&border_radius=10&stroke=00FF00&background=0D1117&fire=FF5D01&currStreakNum=00D9FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zulfikriyahya&theme=radical&hide_border=false&border_radius=10&stroke=00FF00&background=0D1117&fire=FF5D01&currStreakNum=00D9FF)
 
 ### 🚀 ACTIVITY GRAPH
 
@@ -204,35 +204,35 @@ IT Technician        Founder & CEO          Full-Stack Dev
 ### 🏆 CORE COMPETENCIES
 
 ```bash
-┌─────────────────────────────────────────────────────┐
-│  WEB DEVELOPMENT                                    │
-│  ✓ Full-Stack Architecture  ✓ Microservices         │
-│  ✓ API Design & Implementation  ✓ Real-time Systems │
-└─────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────┐
+│  WEB DEVELOPMENT                                      │
+│  ✓ Full-Stack Architecture  ✓ Microservices           │
+│  ✓ API Design & Implementation  ✓ Real-time Systems   │
+└───────────────────────────────────────────────────────┘
 
-┌─────────────────────────────────────────────────────┐
-│  SYSTEM ADMINISTRATION                              │
-│  ✓ Server Management  ✓ Networking                  │
-│  ✓ Infrastructure Design  ✓ DevOps & Automation     │
-└─────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────┐
+│  SYSTEM ADMINISTRATION                                │
+│  ✓ Server Management  ✓ Networking                    │
+│  ✓ Infrastructure Design  ✓ DevOps & Automation       │
+└───────────────────────────────────────────────────────┘
 
-┌─────────────────────────────────────────────────────┐
-│  DATABASE ENGINEERING                               │
-│  ✓ Relational & NoSQL Databases                     │
-│  ✓ Performance Optimization  ✓ Data Modeling        │
-└─────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────┐
+│  DATABASE ENGINEERING                                 │
+│  ✓ Relational & NoSQL Databases                       │
+│  ✓ Performance Optimization  ✓ Data Modeling          │
+└───────────────────────────────────────────────────────┘
 
-┌─────────────────────────────────────────────────────┐
-│  IoT & EMBEDDED SYSTEMS                             │
-│  ✓ Microcontroller Programming  ✓ Hardware Design   │
-│  ✓ IoT Solutions  ✓ Edge Computing                  │
-└─────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────┐
+│  IoT & EMBEDDED SYSTEMS                               │
+│  ✓ Microcontroller Programming  ✓ Hardware Design     │
+│  ✓ IoT Solutions  ✓ Edge Computing                    │
+└───────────────────────────────────────────────────────┘
 
-┌─────────────────────────────────────────────────────┐
-│  SOFTWARE ENGINEERING                               │
-│  ✓ Clean Code Principles  ✓ Design Patterns         │
-│  ✓ Performance Optimization  ✓ Security Best Practices
-└─────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────┐
+│  SOFTWARE ENGINEERING                                 │
+│  ✓ Clean Code Principles  ✓ Design Patterns           │
+│  ✓ Performance Optimization  ✓ Security Best Practices|
+└───────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -295,16 +295,14 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 ### 🏆 KEY ACHIEVEMENTS
 
-```bash
-✨ Founded and scaled ZEDLABS Teknologi Indonesia
-✨ Developed 50+ full-stack web applications
-✨ Managed critical IT infrastructure for educational institution
-✨ Mentored 100+ junior developers
-✨ Contributed to open-source projects
-✨ Specialized in Laravel, React, and Node.js ecosystems
-✨ Expert in Debian Linux and server administration
-✨ Professional in IoT and embedded systems development
-```
+- ✨ Founded and scaled ZEDLABS Teknologi Indonesia
+- ✨ Developed 50+ full-stack web applications
+- ✨ Managed critical IT infrastructure for educational institution
+- ✨ Mentored 100+ junior developers
+- ✨ Contributed to open-source projects
+- ✨ Specialized in Laravel, React, and Node.js ecosystems
+- ✨ Expert in Debian Linux and server administration
+- ✨ Professional in IoT and embedded systems development
 
 ### 🎨 PROJECT HIGHLIGHTS
 
@@ -445,7 +443,7 @@ FUTURE FOCUS:
 
 ### 📊 QUICK STATS
 
-![Visitor Count](https://profile-counter.glitch.me/zulfikriyahya/count.svg)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=zulfikriyahya.zulfikriyahya&color=00D9FF)
 
 </div>
 
@@ -461,7 +459,7 @@ FUTURE FOCUS:
 
 **Made with ❤️ and ☕ by Yahya Zulfikri**
 
-_Last Updated: October 2024_
+_Last Updated: October 2025_
 
 <br/>
 

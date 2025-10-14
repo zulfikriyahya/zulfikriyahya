@@ -355,12 +355,15 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 ## 💡 PHILOSOPHY & MINDSET
 
+<div align="center">
+
 ### 🧠 MY CORE VALUES
 > "Technology bridges the gap between dreams and
 > reality. Every challenge is an opportunity to
 > innovate, every solution a chance to grow."
 > **— Yahya Zulfikri**
 
+</div>
 
 **🎯 My Principles:**
 
@@ -429,4 +432,3 @@ _Last Updated: October 2025_
 
 ---
 </div>
-```

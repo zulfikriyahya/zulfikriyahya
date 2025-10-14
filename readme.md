@@ -403,7 +403,8 @@ If you find value in my work:
 
 ### 🌐 BUSINESS & PORTFOLIO
 
-[![ZEDLABS](https://img.shields.io/badge/ZEDLABS%20Teknologi-7B44F6?style=for-the-badge&logo=web&logoColor=white&labelColor=7B44F6&shadow)](https://zedlabs.id) | [![Documentation](https://img.shields.io/badge/Technical%20Documentation-00D9FF?style=for-the-badge&logo=markdown&logoColor=white&labelColor=00D9FF&shadow)](https://docs.zedlabs.id)
+[![ZEDLABS](https://img.shields.io/badge/ZEDLABS%20Teknologi-7B44F6?style=for-the-badge&logo=web&logoColor=white&labelColor=7B44F6&shadow)](https://zedlabs.id)
+[![Documentation](https://img.shields.io/badge/Technical%20Documentation-00D9FF?style=for-the-badge&logo=markdown&logoColor=white&labelColor=00D9FF&shadow)](https://docs.zedlabs.id)
 
 ### 📞 DIRECT CONTACT
 

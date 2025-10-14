@@ -57,8 +57,8 @@
 
 </div>
 
-I'm **Yahya Zulfikri**, a multi-disciplinary technology professional with expertise spanning from embedded systems and IoT to cloud-native architectures.  
-With a proven track record of designing and implementing innovative solutions, I combine technical excellence with a passion for education and knowledge sharing.
+> I'm **Yahya Zulfikri**, a multi-disciplinary technology professional with expertise spanning from embedded systems and IoT to cloud-native architectures.  
+> With a proven track record of designing and implementing innovative solutions, I combine technical excellence with a passion for education and knowledge sharing.
 
 ### My Approach:
 
@@ -77,7 +77,6 @@ With a proven track record of designing and implementing innovative solutions, I
 - Business technology consulting
 
 ---
-
 
 ## 🛠️ TECHNOLOGY ARSENAL
 
@@ -135,7 +134,6 @@ With a proven track record of designing and implementing innovative solutions, I
 <div align="center">
 
 ### CAREER TIMELINE
-
 
 ```
 2022 - PRESENT        2018 - PRESENT         2017 - PRESENT
@@ -199,28 +197,29 @@ IT Technician        Founder & CEO          Full-Stack Dev
 └───────────────────────────────────────────────────────┘
 
 ┌───────────────────────────────────────────────────────┐
-│  SYSTEM ADMINISTRATION                                │
-│  ✓ Server Management  ✓ Networking                    │
-│  ✓ Infrastructure Design  ✓ DevOps & Automation       │
+│ SYSTEM ADMINISTRATION │
+│ ✓ Server Management ✓ Networking │
+│ ✓ Infrastructure Design ✓ DevOps & Automation │
 └───────────────────────────────────────────────────────┘
 
 ┌───────────────────────────────────────────────────────┐
-│  DATABASE ENGINEERING                                 │
-│  ✓ Relational & NoSQL Databases                       │
-│  ✓ Performance Optimization  ✓ Data Modeling          │
+│ DATABASE ENGINEERING │
+│ ✓ Relational & NoSQL Databases │
+│ ✓ Performance Optimization ✓ Data Modeling │
 └───────────────────────────────────────────────────────┘
 
 ┌───────────────────────────────────────────────────────┐
-│  IoT & EMBEDDED SYSTEMS                               │
-│  ✓ Microcontroller Programming  ✓ Hardware Design     │
-│  ✓ IoT Solutions  ✓ Edge Computing                    │
+│ IoT & EMBEDDED SYSTEMS │
+│ ✓ Microcontroller Programming ✓ Hardware Design │
+│ ✓ IoT Solutions ✓ Edge Computing │
 └───────────────────────────────────────────────────────┘
 
 ┌───────────────────────────────────────────────────────┐
-│  SOFTWARE ENGINEERING                                 │
-│  ✓ Clean Code Principles  ✓ Design Patterns           │
-│  ✓ Performance Optimization  ✓ Security Best Practices|
+│ SOFTWARE ENGINEERING │
+│ ✓ Clean Code Principles ✓ Design Patterns │
+│ ✓ Performance Optimization ✓ Security Best Practices|
 └───────────────────────────────────────────────────────┘
+
 ```
 
 </div>
@@ -325,7 +324,7 @@ IT Technician        Founder & CEO          Full-Stack Dev
 ---
 
 <div align="center">
-  
+
 ## 🔗 CONNECT WITH ME
 
 ### 📱 PROFESSIONAL NETWORKS
@@ -430,3 +429,4 @@ _Last Updated: October 2025_
 
 ---
 </div>
+```

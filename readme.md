@@ -302,49 +302,47 @@ IT Technician        Founder & CEO          Full-Stack Dev
 ### 🎓 DEVELOPMENT ROADMAP
 
 **CURRENT MASTERY:**
-├─ Full-Stack Web Development ✅
-├─ System Administration ✅
-├─ Database Design & Optimization ✅
-├─ IoT & Embedded Systems ✅
-└─ Clean Code & Best Practices ✅
+- Full-Stack Web Development ✅
+- System Administration ✅
+- Database Design & Optimization ✅
+- IoT & Embedded Systems ✅
+- Clean Code & Best Practices ✅
 
 **ACTIVELY LEARNING:**
-├─ Advanced Cloud Architecture (AWS, GCP, Azure)
-├─ Kubernetes & Container Orchestration
-├─ GraphQL & Advanced API Design
-├─ Machine Learning Applications
-├─ Cybersecurity & Infrastructure Hardening
-└─ Advanced Performance Engineering
+- Advanced Cloud Architecture (AWS, GCP, Azure)
+- Kubernetes & Container Orchestration
+- GraphQL & Advanced API Design
+- Machine Learning Applications
+- Cybersecurity & Infrastructure Hardening
+- Advanced Performance Engineering
 
 **FUTURE FOCUS:**
-├─ AI-Powered Solutions
-├─ Blockchain & Web3 Technologies
-├─ Advanced System Design
-├─ Emerging Frameworks & Technologies
-└─ Technical Leadership & Mentorship
+- AI-Powered Solutions
+- Blockchain & Web3 Technologies
+- Advanced System Design
+- Emerging Frameworks & Technologies
+- Technical Leadership & Mentorship
 
 ---
 
+<div align="center">
+  
 ## 🔗 CONNECT WITH ME
 
 ### 📱 PROFESSIONAL NETWORKS
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&shadow)](https://www.linkedin.com/in/zulfikriyahya)
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&shadow)](https://github.com/zulfikriyahya)
-- [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&shadow)](mailto:zulfikriyahya18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&shadow)](https://www.linkedin.com/in/zulfikriyahya) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&shadow)](https://github.com/zulfikriyahya) | [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&shadow)](mailto:zulfikriyahya18@gmail.com)
 
 ### 🌐 BUSINESS & PORTFOLIO
 
-- [![ZEDLABS](https://img.shields.io/badge/ZEDLABS%20Teknologi-7B44F6?style=for-the-badge&logo=web&logoColor=white&labelColor=7B44F6&shadow)](https://zedlabs.id)
-- [![Documentation](https://img.shields.io/badge/Technical%20Documentation-00D9FF?style=for-the-badge&logo=markdown&logoColor=white&labelColor=00D9FF&shadow)](https://docs.zedlabs.id)
+[![ZEDLABS](https://img.shields.io/badge/ZEDLABS%20Teknologi-7B44F6?style=for-the-badge&logo=web&logoColor=white&labelColor=7B44F6&shadow)](https://zedlabs.id) | [![Documentation](https://img.shields.io/badge/Technical%20Documentation-00D9FF?style=for-the-badge&logo=markdown&logoColor=white&labelColor=00D9FF&shadow)](https://docs.zedlabs.id)
 
 ### 📞 DIRECT CONTACT
 
-- 📧 Email: zulfikriyahya18@gmail.com
-- 💼 LinkedIn: linkedin.com/in/zulfikriyahya
-- 🌐 Website: zedlabs.id
-- 📖 Docs: docs.zedlabs.id
-- 💻 GitHub: github.com/zulfikriyahya
+**📧 Email:** zulfikriyahya18@gmail.com | **💼 LinkedIn:** linkedin.com/in/zulfikriyahya
+**🌐 Website:** zedlabs.id | **📖 Docs:** docs.zedlabs.id | **💻 GitHub:** github.com/zulfikriyahya
+
+</div>
 
 ---
 

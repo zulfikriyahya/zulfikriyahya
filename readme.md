@@ -74,11 +74,12 @@ With a proven track record of designing and implementing innovative solutions, I
 
 ---
 
+<div align="center">
+
 ## 🛠️ TECHNOLOGY ARSENAL
 
 ### 🎨 FRONTEND MASTERY
 
-<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
@@ -90,11 +91,7 @@ With a proven track record of designing and implementing innovative solutions, I
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=fff)
 
-</div>
-
 ### ⚙️ BACKEND EXCELLENCE
-
-<div align="center">
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)
@@ -106,11 +103,7 @@ With a proven track record of designing and implementing innovative solutions, I
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
 ![API Development](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=postman&logoColor=fff)
 
-</div>
-
 ### 💾 DATA & INFRASTRUCTURE
-
-<div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
@@ -122,11 +115,7 @@ With a proven track record of designing and implementing innovative solutions, I
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 
-</div>
-
 ### 🔌 IoT & EMBEDDED SYSTEMS
-
-<div align="center">
 
 ![IoT Microcontroller](https://img.shields.io/badge/IoT%20Microcontroller-0066CC?style=for-the-badge&logo=arduino&logoColor=fff)
 ![Electronics](https://img.shields.io/badge/Electronics%20Design-FF6B35?style=for-the-badge&logo=raspberrypi&logoColor=fff)
@@ -141,6 +130,9 @@ With a proven track record of designing and implementing innovative solutions, I
 
 ### CAREER TIMELINE
 
+<div align="center">
+
+```
 2022 - PRESENT        2018 - PRESENT         2017 - PRESENT
 ┌──────────┐          ┌──────────┐           ┌──────────┐
 │   MTs    │          │ ZEDLABS  │           │ FREELANCE│
@@ -148,7 +140,10 @@ With a proven track record of designing and implementing innovative solutions, I
 │Pandeglang│          │Indonesia │           │          │
 └──────────┘          └──────────┘           └──────────┘
 IT Technician        Founder & CEO          Full-Stack Dev
+```
 
+</div>
+  
 | 🏢 **Organization**                                       | 📍 **Role**                          | ⏰ **Timeline** | 🎯 **Responsibilities**                                            |
 | --------------------------------------------------------- | ------------------------------------ | --------------- | ------------------------------------------------------------------ |
 | [MTs Negeri 1 Pandeglang](https://mtsn1pandeglang.sch.id) | IT Technician & Full-stack Developer | 2022 - Present  | Infrastructure Management, Web Solutions, Technical Support        |
@@ -189,6 +184,8 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 ### 🏆 CORE COMPETENCIES
 
+<div align="center">
+```
 ┌───────────────────────────────────────────────────────┐
 │  WEB DEVELOPMENT                                      │
 │  ✓ Full-Stack Architecture  ✓ Microservices           │
@@ -218,6 +215,9 @@ IT Technician        Founder & CEO          Full-Stack Dev
 │  ✓ Clean Code Principles  ✓ Design Patterns           │
 │  ✓ Performance Optimization  ✓ Security Best Practices|
 └───────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 

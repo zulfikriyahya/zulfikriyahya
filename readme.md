@@ -11,12 +11,10 @@
 <br/>
 
 ```
-
 🌍 Location: Pandeglang, Banten, Indonesia
-📧 Email: [zulfikriyahya18@gmail.com](mailto:zulfikriyahya18@gmail.com)
+📧 Email: zulfikriyahya18@gmail.com
 🏢 Founder: ZEDLABS Teknologi Indonesia
 💼 Current: IT Technician at MTs Negeri 1 Pandeglang
-
 ```
 
 ---
@@ -48,27 +46,24 @@
 <div align="center">
 
 ```
-
 ╔═══════════════════════════════════════════════════════════════╗
-║  IT TECHNICIAN | FULL-STACK DEVELOPER | SYSTEM ADMINISTRATOR  ║
+║  IT TECHNICIAN | FULL-STACK DEVELOPER | SYSTEM ADMINISTRATOR ║
 ║           Passionate About Technology & Education             ║
-║                Debian Enthusiast | Tech Innovator             ║
+║                    Debian Enthusiast | Tech Innovator         ║
 ╚═══════════════════════════════════════════════════════════════╝
-
 ```
 
 </div>
 
-I'm **Yahya Zulfikri**, a multi-disciplinary technology professional with expertise spanning from embedded systems and IoT to cloud-native architectures.  
-With a proven track record of designing and implementing innovative solutions, I combine technical excellence with a passion for education and knowledge sharing.
+I'm **Yahya Zulfikri**, a multi-disciplinary technology professional with expertise spanning from embedded systems and IoT to cloud-native architectures. With a proven track record of designing and implementing innovative solutions, I combine technical excellence with a passion for education and knowledge sharing.
 
 **My Approach:**
 
-- 🎯 **Problem-First Mindset** – Understand challenges before crafting solutions
-- 💡 **Innovation-Driven** – Leverage emerging technologies for competitive advantage
-- 📚 **Continuous Excellence** – Committed to learning, improving, and evolving
-- 🤝 **Collaborative Spirit** – Believe in teamwork and mentorship
-- 🔐 **Quality Obsessed** – Every line of code follows clean code principles
+- 🎯 **Problem-First Mindset** - Understanding challenges before crafting solutions
+- 💡 **Innovation-Driven** - Leveraging emerging technologies for competitive advantage
+- 📚 **Continuous Excellence** - Committed to learning, improving, and evolving
+- 🤝 **Collaborative Spirit** - Believing in the power of teamwork and mentorship
+- 🔐 **Quality Obsessed** - Every line of code follows clean code principles
 
 **Current Focus Areas:**
 
@@ -86,11 +81,12 @@ With a proven track record of designing and implementing innovative solutions, I
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000&labelColor=F7DF1E&shadow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff)
+
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=fff)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=fff)
@@ -107,6 +103,7 @@ With a proven track record of designing and implementing innovative solutions, I
 ![Filament](https://img.shields.io/badge/FilamentPHP-FB7185?style=for-the-badge&logo=laravel&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+
 ![Go](https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=000)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=fff)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
@@ -123,6 +120,7 @@ With a proven track record of designing and implementing innovative solutions, I
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff)
 ![Directus](https://img.shields.io/badge/Directus-7B44F6?style=for-the-badge&logo=directus&logoColor=fff)
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
@@ -150,24 +148,22 @@ With a proven track record of designing and implementing innovative solutions, I
 ### CAREER TIMELINE
 
 ```
-
 2024 - PRESENT        2020 - PRESENT         2019 - PRESENT
-┌──────────┐          ┌──────────┐           ┌──────────┐
-│   MTs    │          │ ZEDLABS  │           │ FREELANCE│
-│ Negeri 1 │          │Teknologi │           │Developer │
-│Pandeglang│          │Indonesia │           │          │
-└──────────┘          └──────────┘           └──────────┘
-IT Technician        Founder & CEO          Full-Stack Dev
-
+   ┌──────────┐          ┌──────────┐           ┌──────────┐
+   │   MTs    │          │ ZEDLABS  │           │FREELANCE │
+   │ Negeri 1 │          │Teknologi │           │Developer │
+   │Pandeglang│          │Indonesia │           │          │
+   └──────────┘          └──────────┘           └──────────┘
+   IT Technician        Founder & CEO          Full-Stack Dev
 ```
 
 </div>
 
-| 🏢 **Organization**                                       | 📍 **Role**                          | ⏰ **Timeline** | 🎯 **Responsibilities**                                            |
-| --------------------------------------------------------- | ------------------------------------ | --------------- | ------------------------------------------------------------------ |
-| [MTs Negeri 1 Pandeglang](https://mtsn1pandeglang.sch.id) | IT Technician & Full-stack Developer | 2024 - Present  | Infrastructure Management, Web Solutions, Technical Support        |
-| [ZEDLABS Teknologi Indonesia](https://zedlabs.id)         | Founder & CEO                        | 2020 - Present  | Technology Consulting, Business Solutions, Team Leadership         |
-| Freelance                                                 | Full-stack Developer                 | 2019 - Present  | Contract Web Development, System Integration, Technical Consulting |
+| 🏢 Organization                                               | 📍 Role                              | ⏰ Timeline    | 🎯 Responsibilities                                                |
+| ------------------------------------------------------------- | ------------------------------------ | -------------- | ------------------------------------------------------------------ |
+| **[MTs Negeri 1 Pandeglang](https://mtsn1pandeglang.sch.id)** | IT Technician & Full-stack Developer | 2024 - Present | Infrastructure Management, Web Solutions, Technical Support        |
+| **[ZEDLABS Teknologi Indonesia](https://zedlabs.id)**         | Founder & CEO                        | 2020 - Present | Technology Consulting, Business Solutions, Team Leadership         |
+| **Freelance**                                                 | Full-stack Developer                 | 2019 - Present | Contract Web Development, System Integration, Technical Consulting |
 
 ---
 
@@ -179,17 +175,33 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zulfikriyahya&show_icons=true&theme=radical&hide_border=false&border_radius=10&count_private=true&include_all_commits=true&line_height=30&bg_color=0D1117&title_color=00D9FF&text_color=E0E0E0&icon_color=00D9FF)
 
+</div>
+
+<div align="center">
+
 ### 💻 LANGUAGE DISTRIBUTION
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zulfikriyahya&layout=compact&theme=radical&hide_border=false&border_radius=10&langs_count=12&bg_color=0D1117&title_color=00D9FF&text_color=E0E0E0&card_width=600)
+
+</div>
+
+<div align="center">
 
 ### 🔥 CONTRIBUTION STREAK
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zulfikriyahya&theme=radical&hide_border=false&border_radius=10&stroke=00FF00&background=0D1117&fire=FF5D01&currStreakNum=00D9FF)
 
+</div>
+
+<div align="center">
+
 ### 🚀 ACTIVITY GRAPH
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zulfikriyahya&theme=radical&hide_border=false&border_radius=10&bg_color=0D1117&color=00D9FF&line=FF5D01&point=00FF00)
+
+</div>
+
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zulfikriyahya&style=flat-square&color=00D9FF&label=Profile%20Views)
 ![GitHub Followers](https://img.shields.io/github/followers/zulfikriyahya?style=flat-square&color=00D9FF&label=Followers)

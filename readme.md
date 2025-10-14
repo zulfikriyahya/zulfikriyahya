@@ -191,6 +191,7 @@ IT Technician        Founder & CEO          Full-Stack Dev
 ### 🏆 CORE COMPETENCIES
 
 <div align="center">
+  
 ```
 ┌───────────────────────────────────────────────────────┐
 │  WEB DEVELOPMENT                                      │

@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🇮🇩 YAHYA ZULFIKRI 🇮🇩
+# YAHYA ZULFIKRI 💫
 
 <br/>
 
@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-**🌍 Location:** Pandeglang, Banten, Indonesia **| 📧 Email:** [zulfikriyahya18@gmail.com](mailto:zulfikriyahya18@gmail.com)
+**🌍 Location:** Pandeglang, Banten, Indonesia 🇮🇩 **| 📧 Email:** [zulfikriyahya18@gmail.com](mailto:zulfikriyahya18@gmail.com)
 
 **🏢 Founder:** ZEDLABS Teknologi Indonesia **| 💼 Current:** IT Technician at MTs Negeri 1 Pandeglang
 

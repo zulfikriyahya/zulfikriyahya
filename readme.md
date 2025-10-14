@@ -323,30 +323,6 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 ---
 
-<div align="center">
-
-## 🔗 CONNECT WITH ME
-
-### 📱 PROFESSIONAL NETWORKS
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&shadow)](https://www.linkedin.com/in/zulfikriyahya)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&shadow)](https://github.com/zulfikriyahya)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&shadow)](mailto:zulfikriyahya18@gmail.com)
-
-### 🌐 BUSINESS & PORTFOLIO
-
-[![ZEDLABS](https://img.shields.io/badge/ZEDLABS%20Teknologi-7B44F6?style=for-the-badge&logo=web&logoColor=white&labelColor=7B44F6&shadow)](https://zedlabs.id) | [![Documentation](https://img.shields.io/badge/Technical%20Documentation-00D9FF?style=for-the-badge&logo=markdown&logoColor=white&labelColor=00D9FF&shadow)](https://docs.zedlabs.id)
-
-### 📞 DIRECT CONTACT
-
-**📧 Email:** zulfikriyahya18@gmail.com | **💼 LinkedIn:** https://linkedin.com/in/zulfikriyahya
-
-**🌐 Website:** https://zedlabs.id | **📖 Docs:** https://docs.zedlabs.id | **💻 GitHub:** https://github.com/zulfikriyahya
-
-</div>
-
----
-
 ## 💫 SPECIAL INTERESTS
 
 | Interest                 | Focus                                      |
@@ -394,6 +370,30 @@ IT Technician        Founder & CEO          Full-Stack Dev
 - **Collaboration** - Great things happen together
 - **Impact Driven** - Build solutions that matter
 - **Continuous Growth** - Today's achievement is tomorrow's baseline
+
+---
+
+<div align="center">
+
+## 🔗 CONNECT WITH ME
+
+### 📱 PROFESSIONAL NETWORKS
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&shadow)](https://www.linkedin.com/in/zulfikriyahya)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&shadow)](https://github.com/zulfikriyahya)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&shadow)](mailto:zulfikriyahya18@gmail.com)
+
+### 🌐 BUSINESS & PORTFOLIO
+
+[![ZEDLABS](https://img.shields.io/badge/ZEDLABS%20Teknologi-7B44F6?style=for-the-badge&logo=web&logoColor=white&labelColor=7B44F6&shadow)](https://zedlabs.id) | [![Documentation](https://img.shields.io/badge/Technical%20Documentation-00D9FF?style=for-the-badge&logo=markdown&logoColor=white&labelColor=00D9FF&shadow)](https://docs.zedlabs.id)
+
+### 📞 DIRECT CONTACT
+
+**📧 Email:** zulfikriyahya18@gmail.com | **💼 LinkedIn:** https://linkedin.com/in/zulfikriyahya
+
+**🌐 Website:** https://zedlabs.id | **📖 Docs:** https://docs.zedlabs.id | **💻 GitHub:** https://github.com/zulfikriyahya
+
+</div>
 
 ---
 

@@ -1,12 +1,8 @@
-<div align="center" font="Ubuntu">
-
-<span font="Ubuntu">
+<div align="center">
 
 # 🚀 YAHYA ZULFIKRI
 
 ## _Full-Stack Developer | System Administrator | IT Technician_
-
-</span>
 
 <br/>
 

@@ -406,14 +406,14 @@ FUTURE FOCUS:
 
 ### 🤝 I'M OPEN TO
 
-✅ Full-Stack Web Development Projects
-✅ System Architecture & Consulting
-✅ IoT & Embedded Systems Solutions
-✅ Technical Mentorship & Training
-✅ Business Partnerships
-✅ Open Source Contributions
-✅ Freelance Contracts
-✅ Startup Ventures
+- ✅ Full-Stack Web Development Projects
+- ✅ System Architecture & Consulting
+- ✅ IoT & Embedded Systems Solutions
+- ✅ Technical Mentorship & Training
+- ✅ Business Partnerships
+- ✅ Open Source Contributions
+- ✅ Freelance Contracts
+- ✅ Startup Ventures
 
 </div>
 
@@ -445,7 +445,7 @@ FUTURE FOCUS:
 
 ### 📊 QUICK STATS
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=zulfikriyahya.zulfikriyahya&color=00D9FF)
+![Visitor Count](https://profile-counter.glitch.me/zulfikriyahya/count.svg)
 
 </div>
 

@@ -9,14 +9,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=008081&center=true&vCenter=true&width=600&lines=Lifelong+Learner;Building+Scalable+Solutions;Technology+%2B+Education;Innovation+%2B+Excellence" alt="Typing SVG" />
 
 <br/>
+<br/>
 
-🌍 Location: Pandeglang, Banten, Indonesia
+**🌍 Location:** Pandeglang, Banten, Indonesia | **📧 Email:** [zulfikriyahya18@gmail.com](mailto:zulfikriyahya18@gmail.com)
 
-📧 Email: [zulfikriyahya18@gmail.com](mailto:zulfikriyahya18@gmail.com)
-
-🏢 Founder: ZEDLABS Teknologi Indonesia
-
-💼 Current: IT Technician at MTs Negeri 1 Pandeglang
+**🏢 Founder:** ZEDLABS Teknologi Indonesia | **💼 Current:** IT Technician at MTs Negeri 1 Pandeglang
 
 </div>
 

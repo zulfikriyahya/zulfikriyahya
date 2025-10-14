@@ -1,6 +1,6 @@
 <div align="center">
 
-# Full-Stack Developer | System Administrator | IT Technician
+# Hi, I'm Yahya Zulfikri!
 
 <br/>
 

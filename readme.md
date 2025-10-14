@@ -47,7 +47,7 @@
 
 <div align="center>
 
-```bash
+```
 ╔═══════════════════════════════════════════════════════════════╗
 ║  IT TECHNICIAN | FULL-STACK DEVELOPER | SYSTEM ADMINISTRATOR  ║
 ║           Passionate About Technology & Education             ║

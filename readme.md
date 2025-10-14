@@ -1,4 +1,4 @@
-<div align="center" style="font-family: Ubuntu;">
+<div align="center" font-family="Ubuntu">
 
 # 🚀 YAHYA ZULFIKRI
 

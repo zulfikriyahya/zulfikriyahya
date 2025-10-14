@@ -228,14 +228,13 @@ I'm committed to mastering cutting-edge technologies:
 
 **My Favorite Setup:**
 
-```
-💻 OS: Linux | Windows | macOS
-📝 Editor: Visual Studio Code
-🎨 Theme: Dracula | Nord
-⚡ Terminal: Zsh with Oh My Zsh
-📦 Package Manager: npm | yarn | pnpm
-🔧 Version Control: Git & GitHub
-```
+- 💻 OS: Linux | Windows | macOS
+- 📝 Editor: Visual Studio Code
+- 🎨 Theme: Dracula | Nord
+- ⚡ Terminal: Zsh with Oh My Zsh
+- 📦 Package Manager: npm | yarn | pnpm
+- 🔧 Version Control: Git & GitHub
+
 
 </div>
 
@@ -253,8 +252,6 @@ I'm committed to mastering cutting-edge technologies:
 
 ---
 
-<div align="center">
-
 ## 🌟 Support My Work
 
 If you find my repositories helpful or inspiring, please consider:
@@ -262,8 +259,6 @@ If you find my repositories helpful or inspiring, please consider:
 - 🔄 Contributing improvements
 - 📢 Sharing my work with others
 - 💬 Providing feedback and suggestions
-
-</div>
 
 ---
 

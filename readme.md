@@ -420,7 +420,8 @@ If you find value in my work:
 
 ### 📊 QUICK STATS
 
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/zulfikriyahya%2Fzulfikriyahya&count_bg=%2300D9FF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzulfikriyahya%2Fzulfikriyahya&count_bg=%2300D9FF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)
+
 
 
 </div>

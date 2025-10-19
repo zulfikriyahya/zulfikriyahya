@@ -421,9 +421,12 @@ If you find value in my work:
 
 <div align="center">
 
-### 📊 QUICK STATS
+### 📊 REPOSITORY STATS
 
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/zulfikriyahya%2Fzulfikriyahya&count_bg=%2300D9FF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=zulfikriyahya&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/zulfikriyahya?style=for-the-badge&color=00D9FF&logo=github)
+![GitHub User's stars](https://img.shields.io/github/stars/zulfikriyahya?style=for-the-badge&color=00D9FF&logo=github)
+![Last Commit](https://img.shields.io/github/last-commit/zulfikriyahya/zulfikriyahya?style=for-the-badge&color=00D9FF)
 
 </div>
 

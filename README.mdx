@@ -154,19 +154,37 @@ timeline
 ```
 
 ```mermaid
-gitGraph
-    commit id: "2017: Started Freelancing 💻"
-    commit id: "Full-Stack Development"
-    branch ZEDLABS
-    checkout ZEDLABS
-    commit id: "2018: Founded ZEDLABS 🚀"
-    commit id: "Technology Consulting"
-    branch MTs
-    checkout MTs
-    commit id: "2022: Joined MTs Negeri 1 🎓"
-    commit id: "IT Technician & Developer"
-    checkout main
-    commit id: "2025: All Roles Active ⚡"
+stateDiagram-v2
+    [*] --> Career_Start
+
+    state Career_Start {
+        [*] --> Freelance_2017
+        Freelance_2017: 💻 FREELANCE DEVELOPER
+        Freelance_2017: 2017 - Present
+        Freelance_2017: Web Dev | Integration | Consulting
+    }
+
+    Career_Start --> Growth
+
+    state Growth {
+        [*] --> ZEDLABS_2018
+        ZEDLABS_2018: 🚀 FOUNDED ZEDLABS
+        ZEDLABS_2018: 2018 - Present
+        ZEDLABS_2018: Technology Consulting | Leadership
+    }
+
+    Growth --> Current
+
+    state Current {
+        [*] --> MTs_2022
+        MTs_2022: 🎓 MTs NEGERI 1 PANDEGLANG
+        MTs_2022: 2022 - Present
+        MTs_2022: IT Technician | Infrastructure | Web Solutions
+    }
+
+    Freelance_2017 --> [*]: Ongoing
+    ZEDLABS_2018 --> [*]: Ongoing
+    MTs_2022 --> [*]: Ongoing
 ```
 
 </div>

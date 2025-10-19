@@ -192,31 +192,31 @@ IT Technician        Founder & CEO          Full-Stack Dev
 ```diff
 ┌───────────────────────────────────────────────────────┐
 │  WEB DEVELOPMENT                                      │
-│  ✓ Full-Stack Architecture  ✓ Microservices          │
-│  ✓ API Design & Implementation  ✓ Real-time Systems  │
+│  ✓ Full-Stack Architecture  ✓ Microservices           │
+│  ✓ API Design & Implementation  ✓ Real-time Systems   │
 └───────────────────────────────────────────────────────┘
 
 ┌───────────────────────────────────────────────────────┐
 │  SYSTEM ADMINISTRATION                                │
-│  ✓ Server Management  ✓ Networking                   │
-│  ✓ Infrastructure Design  ✓ DevOps & Automation      │
+│  ✓ Server Management  ✓ Networking                    │
+│  ✓ Infrastructure Design  ✓ DevOps & Automation       │
 └───────────────────────────────────────────────────────┘
 
 ┌───────────────────────────────────────────────────────┐
 │  DATABASE ENGINEERING                                 │
-│  ✓ Relational & NoSQL Databases                      │
-│  ✓ Performance Optimization  ✓ Data Modeling         │
+│  ✓ Relational & NoSQL Databases                       │
+│  ✓ Performance Optimization  ✓ Data Modeling          │
 └───────────────────────────────────────────────────────┘
 
 ┌───────────────────────────────────────────────────────┐
 │  IoT & EMBEDDED SYSTEMS                               │
-│  ✓ Microcontroller Programming  ✓ Hardware Design    │
-│  ✓ IoT Solutions  ✓ Edge Computing                   │
+│  ✓ Microcontroller Programming  ✓ Hardware Design     │
+│  ✓ IoT Solutions  ✓ Edge Computing                    │
 └───────────────────────────────────────────────────────┘
 
 ┌───────────────────────────────────────────────────────┐
 │  SOFTWARE ENGINEERING                                 │
-│  ✓ Clean Code Principles  ✓ Design Patterns          │
+│  ✓ Clean Code Principles  ✓ Design Patterns           │
 │  ✓ Performance Optimization  ✓ Security Best Practices│
 └───────────────────────────────────────────────────────┘
 ```
@@ -414,12 +414,6 @@ If you find value in my work:
 **🌐 Website:** [zedlabs.id](https://zedlabs.id)  
 **📖 Docs:** [docs.zedlabs.id](https://docs.zedlabs.id)  
 **💻 GitHub:** [github.com/zulfikriyahya](https://github.com/zulfikriyahya)
-
-</div>
-
----
-
-<div align="center">
 
 ### 📊 REPOSITORY STATS
 

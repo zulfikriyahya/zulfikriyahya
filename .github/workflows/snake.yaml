@@ -57,12 +57,13 @@ jobs:
 
       - name: Set active variant based on time 🕒
         run: |
-          if [ "${{ steps.time.outputs.theme }}" = "day" ]; then
+          mkdir -p dist
+          chmod -R 777 dist
+          if [ "$night" = "day" ]; then
             cp dist/snake-day.svg dist/snake-active.svg
           else
             cp dist/snake-night.svg dist/snake-active.svg
           fi
-          echo "Using theme: ${{ steps.time.outputs.theme }}"
 
       - name: Deploy to GitHub Pages 🚀
         uses: peaceiris/actions-gh-pages@v4

@@ -154,37 +154,32 @@ timeline
 ```
 
 ```mermaid
-stateDiagram-v2
-    [*] --> Career_Start
+graph TD
+    ROOT["⚡ PROFESSIONAL<br/>EXPERIENCE<br/>⚡"]
 
-    state Career_Start {
-        [*] --> Freelance_2017
-        Freelance_2017: 💻 FREELANCE DEVELOPER
-        Freelance_2017: 2017 - Present
-        Freelance_2017: Web Dev | Integration | Consulting
-    }
+    A["🎓 MTs Negeri 1<br/>━━━━━━━━━━<br/>👨‍💻 IT Technician<br/>📅 2022 - Present"]
+    A1["⚙️ Infrastructure<br/>🌐 Web Solutions<br/>🛠️ Tech Support"]
 
-    Career_Start --> Growth
+    B["🚀 ZEDLABS<br/>━━━━━━━━━━<br/>👔 Founder & CEO<br/>📅 2018 - Present"]
+    B1["💼 Consulting<br/>📊 Business<br/>👥 Leadership"]
 
-    state Growth {
-        [*] --> ZEDLABS_2018
-        ZEDLABS_2018: 🚀 FOUNDED ZEDLABS
-        ZEDLABS_2018: 2018 - Present
-        ZEDLABS_2018: Technology Consulting | Leadership
-    }
+    C["💻 Freelance<br/>━━━━━━━━━━<br/>🎯 Full-Stack Dev<br/>📅 2017 - Present"]
+    C1["🔨 Web Dev<br/>🔗 Integration<br/>📡 Consulting"]
 
-    Growth --> Current
+    ROOT ==> A
+    ROOT ==> B
+    ROOT ==> C
+    A --> A1
+    B --> B1
+    C --> C1
 
-    state Current {
-        [*] --> MTs_2022
-        MTs_2022: 🎓 MTs NEGERI 1 PANDEGLANG
-        MTs_2022: 2022 - Present
-        MTs_2022: IT Technician | Infrastructure | Web Solutions
-    }
-
-    Freelance_2017 --> [*]: Ongoing
-    ZEDLABS_2018 --> [*]: Ongoing
-    MTs_2022 --> [*]: Ongoing
+    style ROOT fill:#FF006E,stroke:#00F5FF,stroke-width:5px,color:#fff,font-weight:bold
+    style A fill:#8B5CF6,stroke:#00F5FF,stroke-width:4px,color:#fff
+    style B fill:#06B6D4,stroke:#FF006E,stroke-width:4px,color:#fff
+    style C fill:#EC4899,stroke:#00F5FF,stroke-width:4px,color:#fff
+    style A1 fill:#A855F7,stroke:#00F5FF,stroke-width:2px,color:#fff
+    style B1 fill:#14B8A6,stroke:#FF006E,stroke-width:2px,color:#fff
+    style C1 fill:#F43F5E,stroke:#00F5FF,stroke-width:2px,color:#fff
 ```
 
 </div>

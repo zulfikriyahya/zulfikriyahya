@@ -45,7 +45,7 @@
 
 <div align="center">
 
-```
+```diff
 ╔═══════════════════════════════════════════════════════════════╗
 ║  IT TECHNICIAN | FULL-STACK DEVELOPER | SYSTEM ADMINISTRATOR  ║
 ║           Passionate About Technology & Education             ║
@@ -133,7 +133,7 @@
 
 ### CAREER TIMELINE
 
-```
+```diff
 2022 - PRESENT        2018 - PRESENT         2017 - PRESENT
 ┌──────────┐          ┌──────────┐           ┌──────────┐
 │   MTs    │          │ ZEDLABS  │           │ FREELANCE│
@@ -189,7 +189,7 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 <div align="center">
   
-```
+```diff
 ┌───────────────────────────────────────────────────────┐
 │  WEB DEVELOPMENT                                      │
 │  ✓ Full-Stack Architecture  ✓ Microservices           │
@@ -448,4 +448,3 @@ _Last Updated: October 2025_
 
 ---
 </div>
-```

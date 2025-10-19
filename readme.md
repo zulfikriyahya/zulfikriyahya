@@ -157,7 +157,15 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 <div align="center">
 
-<img src="https://zulfikriyahya.github.io/zulfikriyahya/snake-active.svg" alt="GitHub Snake Animation" />
+<img src="https://zulfikriyahya.github.io/zulfikriyahya/github-snake.svg" alt="GitHub Snake Animation" />
+
+<br>
+
+<img src="https://zulfikriyahya.github.io/zulfikriyahya/github-snake-dark.svg" alt="GitHub Snake Dark Mode" />
+
+<br>
+
+<img src="https://zulfikriyahya.github.io/zulfikriyahya/github-snake-neon.gif" alt="GitHub Snake Neon Animation" />
 
 ### 📈 PERFORMANCE METRICS
 

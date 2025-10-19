@@ -157,7 +157,7 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zulfikriyahya/zulfikriyahya/output/snake.svg" alt="Snake animation" />
+<img src="https://zulfikriyahya.github.io/zulfikriyahya/snake-active.svg" alt="GitHub Snake Animation" />
 
 ### 📈 PERFORMANCE METRICS
 
@@ -197,27 +197,27 @@ IT Technician        Founder & CEO          Full-Stack Dev
 └───────────────────────────────────────────────────────┘
 
 ┌───────────────────────────────────────────────────────┐
-│ SYSTEM ADMINISTRATION                                 │
-│ ✓ Server Management ✓ Networking                      │
-│ ✓ Infrastructure Design ✓ DevOps & Automation         │
+│ SYSTEM ADMINISTRATION │
+│ ✓ Server Management ✓ Networking │
+│ ✓ Infrastructure Design ✓ DevOps & Automation │
 └───────────────────────────────────────────────────────┘
 
 ┌───────────────────────────────────────────────────────┐
-│ DATABASE ENGINEERING                                  │
-│ ✓ Relational & NoSQL Databases                        │
-│ ✓ Performance Optimization ✓ Data Modeling            │
+│ DATABASE ENGINEERING │
+│ ✓ Relational & NoSQL Databases │
+│ ✓ Performance Optimization ✓ Data Modeling │
 └───────────────────────────────────────────────────────┘
 
 ┌───────────────────────────────────────────────────────┐
-│ IoT & EMBEDDED SYSTEMS                                │
-│ ✓ Microcontroller Programming ✓ Hardware Design       │
-│ ✓ IoT Solutions ✓ Edge Computing                      │
+│ IoT & EMBEDDED SYSTEMS │
+│ ✓ Microcontroller Programming ✓ Hardware Design │
+│ ✓ IoT Solutions ✓ Edge Computing │
 └───────────────────────────────────────────────────────┘
 
 ┌───────────────────────────────────────────────────────┐
-│ SOFTWARE ENGINEERING                                  │
-│ ✓ Clean Code Principles ✓ Design Patterns             │
-│ ✓ Performance Optimization ✓ Security Best Practices  |
+│ SOFTWARE ENGINEERING │
+│ ✓ Clean Code Principles ✓ Design Patterns │
+│ ✓ Performance Optimization ✓ Security Best Practices |
 └───────────────────────────────────────────────────────┘
 
 ```
@@ -448,3 +448,4 @@ _Last Updated: October 2025_
 
 ---
 </div>
+```

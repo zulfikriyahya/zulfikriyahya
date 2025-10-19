@@ -58,7 +58,7 @@
 > I'm **Yahya Zulfikri**, a multi-disciplinary technology professional with expertise spanning from embedded systems and IoT to cloud-native architectures.  
 > With a proven track record of designing and implementing innovative solutions, I combine technical excellence with a passion for education and knowledge sharing.
 
-### My Approach:
+### My Approach
 
 - 🎯 **Problem-First Mindset** – Understand challenges before crafting solutions
 - 💡 **Innovation-Driven** – Leverage emerging technologies for competitive advantage
@@ -66,7 +66,7 @@
 - 🤝 **Collaborative Spirit** – Believe in teamwork and mentorship
 - 🔐 **Quality Obsessed** – Every line of code follows clean code principles
 
-### Current Focus Areas:
+### Current Focus Areas
 
 - Full-stack web development with modern frameworks
 - System architecture and infrastructure design

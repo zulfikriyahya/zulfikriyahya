@@ -1,4 +1,4 @@
-name: Generate Snake Animation 🐍 (Neon Edition)
+name: Generate Snake Animation (Neon Edition)
 
 on:
   schedule: # Jalankan setiap 12 jam
@@ -18,10 +18,10 @@ jobs:
       contents: write
 
     steps:
-      - name: 🧩 Checkout repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: 🐍 Generate Neon Snake Animation
+      - name: Generate Neon Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}

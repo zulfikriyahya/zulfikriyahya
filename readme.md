@@ -445,6 +445,5 @@ _Last Updated: October 2025_
 🌟 **Mission:** Build, Learn, Teach, Grow
 
 💪 **Motto:** Lifelong Learner
-
----
 </div>
+```

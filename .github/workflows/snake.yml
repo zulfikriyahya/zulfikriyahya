@@ -1,31 +1,34 @@
-name: Generate snake animation
+name: Generate snake animation 🐍
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
+  schedule: # Jalankan setiap 12 jam
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    permissions:
+      contents: write
 
     steps:
-      - name: generate snake.svg
+      - name: Generate neon-style snake SVGs & GIF 🌈
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
 
+          # Animasi SVG & GIF dengan warna neon dan latar gelap
+          outputs: |
+            dist/snake-green.svg?palette=github-dark&color_snake=#39FF14&color_dots=#0d0d0d,#00FF00,#00FFA3,#39FF14,#B0FF1A
+            dist/snake-cyberpunk.svg?palette=github-dark&color_snake=#FF00FF&color_dots=#0d0d0d,#FF00FF,#FF66FF,#FFB3FF,#FFE6FF
+            dist/snake-cyan.svg?palette=github-dark&color_snake=#00FFFF&color_dots=#0d0d0d,#00D9FF,#00FFEF,#00FFA3,#00FF00
+            dist/snake-glitch.gif?color_snake=#00FFEA&color_dots=#0d0d0d,#00FFEA,#A1FFE0,#FF00FF,#FF7BF7
 
-      - name: push snake.svg to the output branch
+      - name: Push snake files to output branch 🚀
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

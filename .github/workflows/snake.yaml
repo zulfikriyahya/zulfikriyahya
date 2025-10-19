@@ -55,11 +55,10 @@ jobs:
             dist/snake-random.svg?palette=github-dark&color_snake=#00FFFF&color_dots=#0d0d0d,${{ steps.palette.outputs.colors }}
             dist/snake.gif?color_snake=#00FFEA&color_dots=#0d0d0d,${{ steps.palette.outputs.colors }}
 
+      # ✅ FIXED SECTION — hapus chmod dan perbaiki kondisi variabel
       - name: Set active variant based on time 🕒
         run: |
-          mkdir -p dist
-          chmod -R 777 dist
-          if [ "$night" = "day" ]; then
+          if [ "${{ steps.time.outputs.theme }}" = "day" ]; then
             cp dist/snake-day.svg dist/snake-active.svg
           else
             cp dist/snake-night.svg dist/snake-active.svg

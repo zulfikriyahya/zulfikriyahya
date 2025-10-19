@@ -157,6 +157,8 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/zulfikriyahya/zulfikriyahya/output/snake.svg" alt="Snake animation" />
+
 ### 📈 PERFORMANCE METRICS
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zulfikriyahya&show_icons=true&theme=radical&hide_border=false&border_radius=10&count_private=true&include_all_commits=true&line_height=30&bg_color=0D1117&title_color=00D9FF&text_color=E0E0E0&icon_color=00D9FF)

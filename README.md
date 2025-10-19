@@ -175,9 +175,10 @@ IT Technician        Founder & CEO          Full-Stack Dev
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zulfikriyahya&theme=radical&hide_border=false&border_radius=10&bg_color=0D1117&color=00D9FF&line=FF5D01&point=00FF00)
 
-![Profile Views](https://komarev.com/ghpvc/?username=zulfikriyahya&style=flat-square&color=00D9FF&label=Profile%20Views)
-![GitHub Followers](https://img.shields.io/github/followers/zulfikriyahya?style=flat-square&color=00D9FF&label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/zulfikriyahya?style=flat-square&color=00D9FF&label=Total%20Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=zulfikriyahya&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/zulfikriyahya?style=for-the-badge&color=00D9FF&logo=github)
+![GitHub User's stars](https://img.shields.io/github/stars/zulfikriyahya?style=for-the-badge&color=00D9FF&logo=github)
+![Last Commit](https://img.shields.io/github/last-commit/zulfikriyahya/zulfikriyahya?style=for-the-badge&color=00D9FF)
 
 </div>
 
@@ -414,13 +415,6 @@ If you find value in my work:
 **🌐 Website:** [zedlabs.id](https://zedlabs.id)  
 **📖 Docs:** [docs.zedlabs.id](https://docs.zedlabs.id)  
 **💻 GitHub:** [github.com/zulfikriyahya](https://github.com/zulfikriyahya)
-
-### 📊 REPOSITORY STATS
-
-![Profile Views](https://komarev.com/ghpvc/?username=zulfikriyahya&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/zulfikriyahya?style=for-the-badge&color=00D9FF&logo=github)
-![GitHub User's stars](https://img.shields.io/github/stars/zulfikriyahya?style=for-the-badge&color=00D9FF&logo=github)
-![Last Commit](https://img.shields.io/github/last-commit/zulfikriyahya/zulfikriyahya?style=for-the-badge&color=00D9FF)
 
 </div>
 
